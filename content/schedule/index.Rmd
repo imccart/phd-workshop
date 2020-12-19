@@ -1,0 +1,12 @@
+---
+title: "Schedule"
+slug: schedule
+---
+
+Here's your roadmap for the semester!
+
+- [**Content**](/content/) (<i class="fas fa-book-reader"></i>): Links and information on readings, slides, and any pre-recorded lectures. I **will not** post any recordings of our live class sessions on the website. Those are available only on Canvas. 
+- [**Weekly Guide**](/content/guide1/) (<i class="fas fa-book-reader"></i>): Links to weekly (the classes don't split perfectly into weekly sections, but I'll call it weekly nonetheless) learning objectives and activities.
+- [**Assignment**](/assignment/) (<i class="fas fa-pencil-ruler"></i>): Detailed information, instructions, and grading criteria for each assignment. **Assignments are due by 11:59 PM on the day they're listed.**
+
+`r blogdown::shortcode("schedule")`

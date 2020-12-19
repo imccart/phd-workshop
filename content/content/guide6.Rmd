@@ -1,0 +1,27 @@
+---
+title: "Weekly Guide 6"
+linktitle: "Week 6"
+menu:
+  content:
+    parent: Weekly Guides
+    weight: 6
+type: docs
+output:
+  blogdown::html_page:
+    toc: false
+---
+
+```{r setup, include = FALSE, cache = FALSE}
+knitr::opts_chunk$set(error = TRUE, comment = NA, warnings = FALSE, errors = FALSE, messages = FALSE, tidy = FALSE, echo = FALSE)
+```
+
+This week we'll turn to physician treatment decisions. Just as asymmetric information between patients and insurance companies was a big part of the adverse selection problem, this module will show how asymmetric information between physicians and patients can also create some interesting dynamics and incentives.
+
+### Objectives for this week
+
+- Explain the principal-agent problem in the context of medical care
+- Solve for treatment levels when physicians set prices and quantity
+ 
+
+### Activities
+- In-class problem on physician agency. The worksheet is [here](/resource/wksheet4.html).

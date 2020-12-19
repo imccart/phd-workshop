@@ -1,0 +1,26 @@
+---
+title: "Weekly Guide 5"
+linktitle: "Week 5"
+menu:
+  content:
+    parent: Weekly Guides
+    weight: 5
+type: docs
+output:
+  blogdown::html_page:
+    toc: false
+---
+
+```{r setup, include = FALSE, cache = FALSE}
+knitr::opts_chunk$set(error = TRUE, comment = NA, warnings = FALSE, errors = FALSE, messages = FALSE, tidy = FALSE, echo = FALSE)
+```
+
+This week concludes our study of health insurance. We'll finish this module with a discussion of some real world issues related to health insurance markets in the U.S.
+
+### Objectives for this week
+- Explain the history of the employer-provided health insurance market in the U.S.
+- Define community ratings and discuss its costs and benefits for insurance markets
+- Define risk-adjustment and its relevance to insurance markets
+
+### Activities
+- Review Medicare Advantage and FFS data for Homework 1

@@ -1,0 +1,104 @@
+---
+title: "Physician Agency and Treatment Decisions"
+linktitle: "M2: Physician agency"
+menu:
+  content:
+    parent: Module Content
+    weight: 2
+type: docs
+bibliography: "../../static/bib/BibTeX_Library.bib"
+csl: "../../static/bib/chicago-syllabus-no-bib.csl"
+output:
+  blogdown::html_page:
+    toc: false
+---
+
+```{r setup, include = FALSE, cache = FALSE}
+knitr::opts_chunk$set(error = TRUE, comment = NA, warnings = FALSE, errors = FALSE, messages = FALSE, tidy = FALSE, echo = FALSE)
+```
+
+## Readings and other links
+
+- <i class="fas fa-book"></i> Section 17.4 of [@pindyck2018], Sections 5.3 and 17.2 of [@sloan2012], [@mcguire2000], [@gruber1996], [@clemens2014]
+- <i class="fas fa-external-link-square-alt"></i> 
+    - [The Dartmouth Atlas](https://www.dartmouthatlas.org/interactive-apps/)
+    - The Atlantic, December 2013, ["You're Getting Too Much Healthcare](https://www.theatlantic.com/health/archive/2013/12/youre-getting-too-much-healthcare/281896/)
+    - MIT News Office, June 2018, ["The value of late-in-life health care spending"](http://news.mit.edu/2018/value-late-life-health-care-spending-medicare-0628)
+    - [All About Medicare, Podcast](https://open.spotify.com/episode/11QshS7vlTptfBVkV8WkTG?si=sCnpjaDNT5mF3lDC6obB4g)
+    - [All Aboud Medicaid, Podcast](https://open.spotify.com/episode/5wV95SFHGv9trpZrXACELP?si=DFnzeWj7R1eIv9w2Xr3PtQ)
+    - [Healthcare Triage, Pay for Performance](https://www.youtube.com/watch?v=SFNuztrgQY0)
+    - [NEJM Report, What is Pay for Performance](https://catalyst.nejm.org/doi/full/10.1056/CAT.18.0245)
+
+
+## Slides
+
+The goal of this module is to understand the role of physicians in making treatment decisions, and how the consequences of this may differ depending on the type of payment model employed. We'll finish the module with a discussion of current policy issues related to healthcare payments in the U.S.
+
+Use the buttons below to open the slides either as an interactive website or as a static PDF (for printing or storing for later). You can also click in the embedded slides and navigate through them with your left and right arrow keys.
+
+:::fyi
+**Fun fact**: If you type <kbd>?</kbd> (or <kbd>shift</kbd> + <kbd>/</kbd>) while going through the slides, you can see a list of special slide-specific commands.
+:::
+
+### 01: Physician agency
+
+What is *physician agency* and why do we care?
+
+<center>
+
+```{r}
+knitr::include_url("https://imccart.github.io/Econ372-content/02-Agency/02-agency1.html")
+```
+
+
+<p><a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/Econ372-content/02-Agency/02-agency1.html"><i class="fas fa-external-link-alt"></i> View all slides in new window</a> <a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/Econ372-content/02-Agency/02-agency1.pdf" role="button"><i class="far fa-file-pdf"></i> Download PDF of all slides</a></p>
+
+</center>
+
+
+### 02: Fee for service payments
+
+What is a fee-for-service payment model, and how is it related to physician agency?
+
+<center>
+
+```{r}
+knitr::include_url("https://imccart.github.io/Econ372-content/02-Agency/02-agency2.html")
+```
+
+
+<p><a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/Econ372-content/02-Agency/02-agency2.html"><i class="fas fa-external-link-alt"></i> View all slides in new window</a> <a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/Econ372-content/02-Agency/02-agency2.pdf" role="button"><i class="far fa-file-pdf"></i> Download PDF of all slides</a></p>
+
+</center>
+
+
+### 03: Capitated payments
+
+What is a capitated payment model, and how is it related to physician agency?
+
+<center>
+
+```{r}
+knitr::include_url("https://imccart.github.io/Econ372-content/02-Agency/02-agency2.html")
+```
+
+
+<p><a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/Econ372-content/02-Agency/02-agency2.html"><i class="fas fa-external-link-alt"></i> View all slides in new window</a> <a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/Econ372-content/02-Agency/02-agency2.pdf" role="button"><i class="far fa-file-pdf"></i> Download PDF of all slides</a></p>
+
+</center>
+
+
+### 04: Current issues in health care payments
+
+What's going on with current payment policies? Are we doing anything differently? If so, are we actually improving?
+
+<center>
+
+```{r}
+knitr::include_url("https://imccart.github.io/Econ372-content/02-Agency/02-agency4.html")
+```
+
+
+<p><a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/Econ372-content/02-Agency/02-agency4.html"><i class="fas fa-external-link-alt"></i> View all slides in new window</a> <a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/Econ372-content/02-Agency/02-agency4.pdf" role="button"><i class="far fa-file-pdf"></i> Download PDF of all slides</a></p>
+
+</center>

@@ -1,0 +1,29 @@
+---
+title: "Weekly Guide 10"
+linktitle: "Week 10"
+menu:
+  content:
+    parent: Weekly Guides
+    weight: 10
+type: docs
+output:
+  blogdown::html_page:
+    toc: false
+---
+
+```{r setup, include = FALSE, cache = FALSE}
+knitr::opts_chunk$set(error = TRUE, comment = NA, warnings = FALSE, errors = FALSE, messages = FALSE, tidy = FALSE, echo = FALSE)
+```
+
+This week we begin our coverage of hospital pricing, starting with a setup in which hospitals can set prices in one market and must take a fixed price in another market. 
+
+### Objectives for this week
+
+- Use our two-price model to predict the effect of a change in public (e.g. Medicare or Medicaid) prices
+- Identify the minimum price at which public insurance patients lose access to care
+- Define cost-shifting and summarize the key aspects of the cost-shifting debate
+
+### Activities
+
+- Solve for the profit maximizing price and quantity for a monopolistically competitive firm. Worksheet available [here](/resource/wksheet7.html).
+- Solve the practice problem on the two-price model. Worksheet available [here](/resource/wksheet8.html).

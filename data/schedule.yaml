@@ -1,0 +1,226 @@
+lessons:
+  - title: 'Module 0: Introduction'
+    header: True
+
+  - title: '<span class="content-title">Motivation</span>'
+    session: "Class 1-2"
+    date: "January 26-28"
+    content: "00-content"
+    guide: "guide1"
+    bg: 1
+    
+  - title: 'Check-in 1'
+    date: "January 29"
+    assignment: "weekly-check-in"
+    bg: 1
+    bottomborder: True    
+
+  - title: 'Module 1: Health insurance'
+    header: True
+
+  - title: '<span class="content-title">Understanding risk</span>'
+    session: "Class 3"
+    date: "February 3"
+    content: "01-content"
+    guide: "guide2"
+    bg: 2
+    bottomborder: True
+
+  - title: '<span class="content-title">Demand for health insurance</span>'
+    session: "Class 4-5"
+    date: "February 4-9"
+    content: "01-content"
+    guide: "guide3"
+    bg: 1
+
+  - title: 'Check-in 2'
+    date: "February 5"
+    assignment: "weekly-check-in"
+    bg: 1
+    bottomborder: True
+
+  - title: '<span class="content-title">Advserse selection</span>'
+    session: "Class 6-7"
+    date: "February 11-16"
+    content: "01-content"
+    guide: "guide4"
+    bg: 2
+
+  - title: 'Check-in 3'
+    date: "February 12"
+    assignment: "weekly-check-in"
+    bg: 2
+    bottomborder: True
+
+  - title: '<span class="content-title">Health insurance and current policy</span>'
+    session: "Class 8-9"
+    date: "February 18-23"
+    content: "01-content"
+    guide: "guide5"
+    bg: 1
+
+  - title: 'Check-in 4'
+    date: "February 19"
+    assignment: "weekly-check-in"
+    bg: 1
+    bottomborder: True
+
+
+  - title: 'Module 2: Physician agency and treatment decisions'
+    header: True
+
+
+  - title: '<span class="content-title">Physician agency</span>'
+    session: "Class 10-11"
+    date: "February 25-March 2"
+    content: "02-content"
+    guide: "guide6"
+    bg: 2
+
+  - title: 'Homework 1'
+    date: "February 25"
+    assignment: "homework1"
+    bg: 3
+
+
+  - title: 'Check-in 5'
+    date: "February 26"
+    assignment: "weekly-check-in"
+    bg: 2
+    bottomborder: True    
+
+
+  - title: '<span class="content-title">Fee-for-service payments</span>'
+    session: "Class 12-13"
+    date: "March 4-9"
+    content: "02-content"
+    guide: "guide7"
+    bg: 1
+
+  - title: 'Check-in 6'
+    date: "March 5"
+    assignment: "weekly-check-in"
+    bg: 1
+    bottomborder: True
+
+
+  - title: '<span class="content-title">Capitated payments</span>'
+    session: "Class 14-15"
+    date: "March 11-18"
+    content: "02-content"
+    guide: "guide8"
+    bg: 2
+
+  - title: 'Check-in 7'
+    date: "March 12"
+    assignment: "weekly-check-in"
+    bg: 2
+
+  - title: 'Check-in 8'
+    date: "March 29"
+    assignment: "weekly-check-in"
+    bg: 2
+    bottomborder: True
+
+
+  - title: '<span class="content-title">Current issues in health care payments</span>'
+    session: "Class 16-17"
+    date: "March 23-25"
+    content: "02-content"
+    guide: "guide9"
+    bg: 1
+
+  - title: 'Homework 2'
+    date: "March 23"
+    assignment: "homework2"
+    bg: 3
+
+  - title: 'Check-in 9'
+    date: "March 26"
+    assignment: "weekly-check-in"
+    bg: 1
+    bottomborder: True
+
+  - title: '<i class="fas fa-star"></i> **Mid-term Exam**'
+    date: "March 30"
+    assignment: "exam1"
+    bg: 3
+    bottomborder: True
+
+
+  - title: 'Module 3: Hospital pricing and competition'
+    header: True
+
+  - title: '<span class="content-title">Pricing in two-price market</span>'
+    session: "Class 18-19"
+    date: "April 1-6"
+    content: "03-content"
+    guide: "guide10"
+    bg: 2
+
+  - title: 'Check-in 10'
+    date: "April 2"
+    assignment: "weekly-check-in"
+    bg: 2
+    bottomborder: True
+
+
+  - title: '<span class="content-title">Prices and bargaining</span>'
+    session: "Class 20-21"
+    date: "April 8-13"
+    content: "03-content"
+    guide: "guide11"
+    bg: 1
+
+  - title: 'Check-in 11'
+    date: "April 9"
+    assignment: "weekly-check-in"
+    bg: 1
+    bottomborder: True
+
+
+  - title: '<span class="content-title">Hospital competition</span>'
+    session: "Class 22-24"
+    date: "April 15-22"
+    content: "03-content"
+    guide: "guide12"
+    bg: 2
+
+  - title: 'Check-in 12'
+    date: "April 16"
+    assignment: "weekly-check-in"
+    bg: 2
+
+  - title: 'Check-in 13'
+    date: "April 23"
+    assignment: "weekly-check-in"
+    bg: 2
+    bottomborder: True
+
+
+  - title: '<span class="content-title">Mergers and prices</span>'
+    session: "Class 25-26"
+    date: "April 27-29"
+    content: "03-content"
+    guide: "guide13"
+    bg: 1
+
+  - title: 'Homework 3'
+    date: "April 27"
+    assignment: "homework3"
+    bg: 3
+
+  - title: 'Check-in 14'
+    date: "April 30"
+    assignment: "weekly-check-in"
+    bg: 1
+    bottomborder: True
+
+  - title: 'Final Exam Period'
+    header: True
+
+  - title: '<i class="fas fa-star"></i> **Final Project**'
+    date: "May 12"
+    assignment: "project"
+    bg: 3
+    bottomborder: True

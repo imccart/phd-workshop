@@ -1,0 +1,11 @@
+---
+title: Navigating the site
+date: "2020-12-20"
+menu:
+  year4:
+    parent: Overview
+type: docs
+weight: -1
+---
+
+Some cool stuff

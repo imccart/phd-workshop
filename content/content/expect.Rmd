@@ -1,0 +1,12 @@
+---
+title: Expectations
+date: "2020-12-03"
+menu:
+  content:
+    parent: Overview
+    weight: 2
+type: docs
+weight: 2
+---
+
+Please come to class prepared and ready to participate.

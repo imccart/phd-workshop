@@ -1,0 +1,27 @@
+---
+title: "Weekly Guide 2"
+linktitle: "Week 2"
+menu:
+  content:
+    parent: Weekly Guides
+    weight: 2
+type: docs
+output:
+  blogdown::html_page:
+    toc: false
+---
+
+```{r setup, include = FALSE, cache = FALSE}
+knitr::opts_chunk$set(error = TRUE, comment = NA, warnings = FALSE, errors = FALSE, messages = FALSE, tidy = FALSE, echo = FALSE)
+```
+
+Today is all about risk and uncertainty. We will eventually use these concepts to study insurance markets and premiums.
+
+### Objectives
+- Calculate expected values
+- Define risk aversion and diminishing marginal utility
+ 
+### Activities
+- Discussion of the health insurance *death spiral*
+- In-class problem on expected values. The worksheet is [here](/resource/wksheet1.html).
+ 

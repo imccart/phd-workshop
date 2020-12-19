@@ -1,0 +1,15 @@
+---
+title: General information
+date: "2020-12-16"
+menu:
+  resource:
+    parent: Overview
+    weight: -1
+type: docs
+weight: 1
+output:
+  blogdown::html_page:
+    toc: true
+---
+
+Here we've assembled all of the external resources for the PhD workshop series.

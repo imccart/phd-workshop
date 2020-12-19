@@ -1,0 +1,99 @@
+---
+title: "Introduction to U.S. Health Care"
+linktitle: "M0: Getting started"
+menu:
+  content:
+    parent: Module Content
+    weight: 1
+type: docs
+bibliography: "../../static/bib/BibTeX_Library.bib"
+csl: "../../static/bib/chicago-syllabus-no-bib.csl"
+output:
+  blogdown::html_page:
+    toc: false
+---
+
+```{r setup, include = FALSE, cache = FALSE}
+knitr::opts_chunk$set(error = TRUE, comment = NA, warnings = FALSE, errors = FALSE, messages = FALSE, tidy = FALSE, echo = FALSE)
+```
+
+## Readings and other links
+
+- Review the [syllabus](/syllabus/), [schedule](/schedule/), [content](/content/), and [assignments](/assignment/) pages for this class...just to get a feel for the site and how to navigate all of the information.
+- <i class="fas fa-book"></i> [@arrow1963] and [@gaynor2015jel]. These articles are more of a guide for the semester. We'll touch on most of the topics covered in the articles over the next several weeks. Reading these papers now can really help to prepare you for the whole semester.
+- <i class="fas fa-external-link-square-alt"></i> 
+    - Data from [Gapminder](https://www.gapminder.org/)
+    - For a good discussion of hospital prices and something called "charges", see [@anderson2003] 
+    - Healthcare triage videos: [The Healthcare System of the United States](https://www.youtube.com/watch?v=yN-MkRcOJjY) and [Why Does the US Spend So Much On Healthcare?](https://www.youtube.com/watch?v=tFtAohYPSFc)
+    - Time, 2013. [Bitter Pill: Why Medical Bills are Killing Us](https://time.com/198/bitter-pill-why-medical-bills-are-killing-us/)
+    - Forbes, 2018. [Healthcare: It's the prices, stupid. Isn't it?](https://www.forbes.com/sites/elliekincaid/2018/03/13/healthcare-its-the-prices-stupid-isnt-it/#52a5fda3198a)
+    - Blog, Random Critical Analysis, November 2018. ["Why everything you have said about the determinants of health expenditure is wrong in one million charts: A response to Noah Smith."](https://randomcriticalanalysis.com/2018/11/19/why-everything-you-know-about-healthcare-is-wrong-in-one-million-charts-a-response-to-noah-smith/)
+
+
+
+## Slides
+
+The goal of this module is to answer the key questions that anyone should want answered when they start to learn something new, "what, why, who, and how?" (the "when" should be obvious...8:00am!! on Tu/Th) That is, "what are we learning and why?", "who is learning it?", and "how are we going to learn it?" 
+
+The module is divided into subsections aligning with these core questions, each with its own set of slides. Use the buttons below to open the slides either as an interactive website or as a static PDF (for printing or storing for later). You can also click in the embedded slides and navigate through them with your left and right arrow keys.
+
+:::fyi
+**Fun fact**: If you type <kbd>?</kbd> (or <kbd>shift</kbd> + <kbd>/</kbd>) while going through the slides, you can see a list of special slide-specific commands.
+:::
+
+### 01: Why? 
+
+Why are you taking this class? What's so interesting about health economics? Hopefully this part of our discussion convinces you how important and interesting health economics is. 
+
+<center>
+
+```{r}
+knitr::include_url("https://imccart.github.io/Econ372-content/00-Introduction/00-intro1.html")
+```
+
+
+<p><a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/Econ372-content/00-Introduction/00-intro1.html"><i class="fas fa-external-link-alt"></i> View all slides in new window</a> <a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/Econ372-content/00-Introduction/00-intro1.pdf" role="button"><i class="far fa-file-pdf"></i> Download PDF of all slides</a></p>
+
+</center>
+
+
+### 02: What? 
+
+Let's expand on the "why?" for a bit but also talk more specifically about the subjects we'll cover in this class. This section is the "what?".
+
+<center>
+
+```{r}
+knitr::include_url("https://imccart.github.io/Econ372-content/00-Introduction/00-intro2.html")
+```
+
+
+<p><a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/Econ372-content/00-Introduction/00-intro2.html"><i class="fas fa-external-link-alt"></i> View all slides in new window</a> <a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/Econ372-content/00-Introduction/00-intro2.pdf" role="button"><i class="far fa-file-pdf"></i> Download PDF of all slides</a></p>
+
+</center>
+
+
+### 03: Who? 
+
+A couple of activities to help us relax and build some class identity...
+
+1. **"Remember when..."** I'll type names in the chat box, and in that order, we'll create our own improvised story. Each person will contribute a sentence to the story. 
+2. **"Where are we?"** We'll collect everyone's latitude and longitude, take the average, and find out where the "center" of our class is. Here are the steps:
+    - Go to [latlong.net](latlong.net) to find your current latitude and longitude.
+    - Go to our [class latitude and longitude spreadsheet](https://docs.google.com/spreadsheets/d/1qfdFm21lc7ouVliD66Je3jse9XkmqbpkM0C68oEGoXo/edit?usp=sharing) to enter your latitude and longitude. It will automatically average our locations.
+    - Once we've added all the information, we'll discuss some fun facts about our class location.
+
+
+### 04: How?
+
+<center>
+
+```{r}
+knitr::include_url("https://imccart.github.io/Econ372-content/00-Introduction/00-intro4.html")
+```
+
+
+<p><a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/Econ372-content/00-Introduction/00-intro4.html"><i class="fas fa-external-link-alt"></i> View all slides in new window</a> <a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/Econ372-content/00-Introduction/00-intro4.pdf" role="button"><i class="far fa-file-pdf"></i> Download PDF of all slides</a></p>
+
+</center>
+

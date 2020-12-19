@@ -1,0 +1,43 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+[[main]]
+  name = "4th Year"
+  url = "year4"
+  weight = 1
+
+[[main]]
+  name = "5th Year"
+  url = "year5"
+  weight = 2
+  
+[[main]]
+  name = "Resources"
+  url = "resource"
+  weight = 3
+  
+[[year4]]
+  name = "Overview"
+  weight = 1
+  
+[[year4]]
+  name = "Pre-research"
+  weight = 2
+
+[[year4]]
+  name = "Writing"
+  weight = 3
+
+[[year4]]
+  name = "Dissemination"
+  weight = 4
+
+[[year4]]
+  name = "Presenting"
+  weight = 5
+
+[[resource]]
+  name = "Overview"
+  weight = 1

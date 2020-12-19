@@ -1,0 +1,25 @@
+---
+title: "Weekly Guide 13"
+linktitle: "Week 13"
+menu:
+  content:
+    parent: Weekly Guides
+    weight: 13
+type: docs
+output:
+  blogdown::html_page:
+    toc: false
+---
+
+```{r setup, include = FALSE, cache = FALSE}
+knitr::opts_chunk$set(error = TRUE, comment = NA, warnings = FALSE, errors = FALSE, messages = FALSE, tidy = FALSE, echo = FALSE)
+```
+
+We made it! This is our last week of new content. We'll finish this semester with a nice discussion of mergers and prices, interpreting this literature in the context of the negotiation model we've covered previously.
+
+### Objectives for this week
+
+- Summarize the existing data on hospital mergers and their effects on hospital prices and quality
+- Differentiate between in- and out-of-market mergers
+
+

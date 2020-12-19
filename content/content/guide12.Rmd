@@ -1,0 +1,24 @@
+---
+title: "Weekly Guide 12"
+linktitle: "Week 12"
+menu:
+  content:
+    parent: Weekly Guides
+    weight: 12
+type: docs
+output:
+  blogdown::html_page:
+    toc: false
+---
+
+```{r setup, include = FALSE, cache = FALSE}
+knitr::opts_chunk$set(error = TRUE, comment = NA, warnings = FALSE, errors = FALSE, messages = FALSE, tidy = FALSE, echo = FALSE)
+```
+
+This week we continue our coverage of hospital pricing, focusing on the role of competition and mergers.
+
+### Objectives for this week
+
+- Explain the role of competition on pricing and describe how we measure competition in health care
+
+

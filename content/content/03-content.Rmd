@@ -1,0 +1,111 @@
+---
+title: "Hospital Pricing and Competition"
+linktitle: "M3: Competition"
+date: "2020-12-03"
+start_date: "2021-01-26"
+end_date: "2021-01-28"
+menu:
+  content:
+    parent: Module Content
+    weight: 2
+type: docs
+bibliography: "../../static/bib/BibTeX_Library.bib"
+csl: "../../static/bib/chicago-syllabus-no-bib.csl"
+output:
+  blogdown::html_page:
+    toc: false
+---
+
+```{r setup, include = FALSE, cache = FALSE}
+knitr::opts_chunk$set(error = TRUE, comment = NA, warnings = FALSE, errors = FALSE, messages = FALSE, tidy = FALSE, echo = FALSE)
+```
+
+## Readings
+
+- <i class="fas fa-book"></i> Sections 5.4 of [@sloan2012], [@reinhardt2006], [@gaynor2015jel], and [@gaynor2017brookings]
+- <i class="fas fa-external-link-square-alt"></i> 
+    - ["History of Cost Shifting"](https://theincidentaleconomist.com/wordpress/hospital-cost-shifting-brief-history-and-possible-future/)
+    - Reinhardt, Uwe. 2006. ["The Pricing of US Hospital Services: Chaos Behind a Veil of Secrecy."](https://www.healthaffairs.org/doi/full/10.1377/hlthaff.25.1.57) *Health Affairs*, 25(1):57-69.
+    - ["Value of tax breaks for non-profit hospitals doubled in a decade,"](https://www.washingtonpost.com/national/health-science/value-of-tax-breaks-for-nonprofit-hospitals-doubled-in-a-decade/2015/06/17/4162c640-1450-11e5-9ddc-e3353542100c_story.html) *Washington Post*, 2015
+    - ["Nonprofit hospitals' community benefit requirements,"](https://www.washingtonpost.com/national/health-science/value-of-tax-breaks-for-nonprofit-hospitals-doubled-in-a-decade/2015/06/17/4162c640-1450-11e5-9ddc-e3353542100c_story.html) *Health Affairs* policy brief, 2016
+    - [Health Care Pricing Project](https://healthcarepricingproject.org/)
+    - [Health Care Cost Institute, Healthy Marketplace Index](https://healthcostinstitute.org/research/hmi-interactive)
+    - ["Making healthcare markets work: Competition policy for health care"](https://www.brookings.edu/research/making-health-care-markets-work-competition-policy-for-health-care/)
+    - [Hearing on health care consolidation and anticompetitive conduct](https://www.youtube.com/watch?v=c2rLy4FWn_g). Please focus just on the testimony of Martin Gaynor, as this is most relevant for our class. But if you're interested in pharmaceuticals, there is some great content in this video from other members of the panel as well.
+    
+
+
+
+
+## Slides
+
+The goal of this module is to understand hospital pricing, how we measure competition (in general, but also some specific aspects of health care markets), and how competition affects hospital/insurer negotiations.
+
+Use the buttons below to open the slides either as an interactive website or as a static PDF (for printing or storing for later). You can also click in the embedded slides and navigate through them with your left and right arrow keys.
+
+:::fyi
+**Fun fact**: If you type <kbd>?</kbd> (or <kbd>shift</kbd> + <kbd>/</kbd>) while going through the slides, you can see a list of special slide-specific commands.
+:::
+
+### 01: Pricing in a two-price market
+
+Most of our intro economics models assume that firms set a single price. What happens if firms set prices in one market but are price-takers in an overlapping market?
+
+<center>
+
+```{r}
+knitr::include_url("https://imccart.github.io/Econ372-content/03-Pricing/03-comp1.html")
+```
+
+
+<p><a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/Econ372-content/03-Pricing/03-comp1.html"><i class="fas fa-external-link-alt"></i> View all slides in new window</a> <a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/Econ372-content/03-Pricing/03-comp1.pdf" role="button"><i class="far fa-file-pdf"></i> Download PDF of all slides</a></p>
+
+</center>
+
+
+### 02: Prices and bargaining
+
+In reality, hospitals bargain with insurers over their prices. How do we study pricing in this context?
+
+<center>
+
+```{r}
+knitr::include_url("https://imccart.github.io/Econ372-content/03-Pricing/03-comp2.html")
+```
+
+
+<p><a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/Econ372-content/03-Pricing/03-comp2.html"><i class="fas fa-external-link-alt"></i> View all slides in new window</a> <a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/Econ372-content/03-Pricing/03-comp2.pdf" role="button"><i class="far fa-file-pdf"></i> Download PDF of all slides</a></p>
+
+</center>
+
+
+### 03: Hospital competition
+
+What are the central issues when studying or measuring competition? What does the evidence say happens to hospital prices when competition changes?
+
+<center>
+
+```{r}
+knitr::include_url("https://imccart.github.io/Econ372-content/03-Pricing/03-comp3.html")
+```
+
+
+<p><a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/Econ372-content/03-Pricing/03-comp3.html"><i class="fas fa-external-link-alt"></i> View all slides in new window</a> <a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/Econ372-content/03-Pricing/03-comp3.pdf" role="button"><i class="far fa-file-pdf"></i> Download PDF of all slides</a></p>
+
+</center>
+
+
+### 04: Mergers and prices
+
+What's going on with hospital mergers? What's the difference between an "in-market" and "out-of-market" merger, and why does it matter?
+
+<center>
+
+```{r}
+knitr::include_url("https://imccart.github.io/Econ372-content/03-Pricing/03-comp4.html")
+```
+
+
+<p><a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/Econ372-content/03-Pricing/03-comp4.html"><i class="fas fa-external-link-alt"></i> View all slides in new window</a> <a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/Econ372-content/03-Pricing/03-comp4.pdf" role="button"><i class="far fa-file-pdf"></i> Download PDF of all slides</a></p>
+
+</center>
