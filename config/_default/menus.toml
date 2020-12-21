@@ -4,39 +4,54 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
+  name = "3rd Year"
+  url = "year3"
+  weight = 1
+
+[[main]]
   name = "4th Year"
   url = "year4"
-  weight = 1
+  weight = 2
 
 [[main]]
   name = "5th Year"
   url = "year5"
-  weight = 2
+  weight = 3
   
 [[main]]
   name = "Resources"
   url = "resource"
+  weight = 4
+
+[[year3]]
+  name = "Overview"
+  weight = 1
+
+[[year3]]
+  name = "Workflow"
+  weight = 2
+
+[[year3]]
+  name = "How to Write"
   weight = 3
+
   
 [[year4]]
   name = "Overview"
   weight = 1
   
 [[year4]]
-  name = "Pre-research"
+  name = "Will Anyone Read This?"
   weight = 2
 
 [[year4]]
-  name = "Writing"
+  name = "How to Present"
   weight = 3
 
 [[year4]]
-  name = "Dissemination"
+  name = "The Job Market"
   weight = 4
 
-[[year4]]
-  name = "Presenting"
-  weight = 5
 
 [[resource]]
   name = "Overview"

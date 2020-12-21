@@ -1,0 +1,19 @@
+---
+title: "What's the point?"
+date: "2020-12-20"
+menu:
+  year3:
+    parent: "Overview"
+type: docs
+weight: 2
+---
+
+There are two central goals to the **3rd year workshop**. Note that the purpose is to share some of these best practices and general advice with you, not for you to become a research robot. Every project is different, so there really isn't a single best way to approach every project. But with a good foundation, you should find it easier to revisit old projects (e.g., after 6+ months waiting for reviews), identify promising new research, quickly filter out bad ideas, and write more compelling papers that (some) people actually want to read.
+
+### 1. Improve your workflow
+Understand some best practices for the research workflow, including issues related to replicability and version control, file naming conventions, citation managers, and backing up your work.
+
+This is something that can save you a ton of time. With a good workflow, you can sort through ideas quickly and efficiently, organize literature reviews quickly, and keep track of what you've done (and what you want to do) for lots of projects. Most academics have wasted weeks of time due to bad workflow (myself included). Hopefully we can avoid some portion of this lost time for you.
+
+### 2. Become a better writer
+Most of us like to think of ourselves as good writers. Unfortunately most of us are probably wrong.
