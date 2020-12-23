@@ -24,6 +24,6 @@ knitr::include_url("https://imccart.github.io/phd-workshop-content/year3/organiz
 ```
 
 
-<p><a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/phd-workshop-content/year3/organize.html"><i class="fas fa-external-link-alt"></i> View slides in new window</a> <a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/phd-workshop-content/year3/organize.pdf" role="button"><i class="far fa-file-pdf"></i> Download PDF of slides</a></p>
+<p><a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/phd-workshop-content/year3/organize.html"><i class="fas fa-external-link-alt"></i> View slides in new window</a></p>
 
 </center>

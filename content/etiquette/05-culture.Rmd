@@ -1,0 +1,28 @@
+---
+title: "Contribute Positively to Your Office or Department Culture"
+linktitle: "5: Culture"
+date: "2020-12-20"
+menu:
+  etiquette:
+    parent: "Topics"
+type: docs
+weight: 5
+---
+
+```{r setup, include = FALSE, cache = FALSE}
+knitr::opts_chunk$set(error = TRUE, comment = NA, warnings = FALSE, errors = FALSE, messages = FALSE, tidy = FALSE, echo = FALSE)
+```
+
+An "office culture" is hard to define. It's basically a system of values, shared assumptions, and group norms. I believe that strong, positive culture can help develop junior faculty, improve teaching, and even improve our research. There's certainly plenty of evidence that a strong culture helps in a traditional office setting.
+
+As academics, we've often developed some odd work habits. Here, we'll talk about some things we should consider and try to improve upon if we want to enjoy our workplace.
+
+<center>
+
+```{r}
+knitr::include_url("https://imccart.github.io/phd-workshop-content/etiquette/culture.html")
+```
+
+<p><a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/phd-workshop-content/etiquette/culture.html"><i class="fas fa-external-link-alt"></i> View slides in new window</a></p>
+
+</center>

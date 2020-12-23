@@ -1,0 +1,26 @@
+---
+title: "Good Examples of Bad Behaviors"
+linktitle: "1: Bad Professors"
+date: "2020-12-20"
+menu:
+  etiquette:
+    parent: "Topics"
+type: docs
+weight: 1
+---
+
+```{r setup, include = FALSE, cache = FALSE}
+knitr::opts_chunk$set(error = TRUE, comment = NA, warnings = FALSE, errors = FALSE, messages = FALSE, tidy = FALSE, echo = FALSE)
+```
+
+Oh man, there are some strange stories out there. Here are just some examples of things that you definitely should not do. 
+
+<center>
+
+```{r}
+knitr::include_url("https://imccart.github.io/phd-workshop-content/etiquette/examples.html")
+```
+
+<p><a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/phd-workshop-content/etiquette/examples.html"><i class="fas fa-external-link-alt"></i> View slides in new window</a></p>
+
+</center>

@@ -1,0 +1,26 @@
+---
+title: "Tips for Attending Meetings"
+linktitle: "4: Meetings"
+date: "2020-12-20"
+menu:
+  etiquette:
+    parent: "Topics"
+type: docs
+weight: 4
+---
+
+```{r setup, include = FALSE, cache = FALSE}
+knitr::opts_chunk$set(error = TRUE, comment = NA, warnings = FALSE, errors = FALSE, messages = FALSE, tidy = FALSE, echo = FALSE)
+```
+
+If email is useful, it's as a substitute for meetings. But meetings are necessary part of any workplace. Here, we'll talk about some basic norms of office meetings.
+
+<center>
+
+```{r}
+knitr::include_url("https://imccart.github.io/phd-workshop-content/etiquette/meetings.html")
+```
+
+<p><a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/phd-workshop-content/etiquette/meetings.html"><i class="fas fa-external-link-alt"></i> View slides in new window</a></p>
+
+</center>

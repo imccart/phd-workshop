@@ -1,0 +1,26 @@
+---
+title: "How to Keep Yourself (Somewhat) Organized"
+linktitle: "2: Staying Organized"
+date: "2020-12-20"
+menu:
+  etiquette:
+    parent: "Topics"
+type: docs
+weight: 2
+---
+
+```{r setup, include = FALSE, cache = FALSE}
+knitr::opts_chunk$set(error = TRUE, comment = NA, warnings = FALSE, errors = FALSE, messages = FALSE, tidy = FALSE, echo = FALSE)
+```
+
+If you don't already, you'll eventually feel pulled in many directions between teaching, service, and research. You'll have similar pressures outside of academia. Here, we'll talk about different organization strategies and what might work best for you.
+
+<center>
+
+```{r}
+knitr::include_url("https://imccart.github.io/phd-workshop-content/etiquette/organization.html")
+```
+
+<p><a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/phd-workshop-content/etiquette/organization.html"><i class="fas fa-external-link-alt"></i> View slides in new window</a></p>
+
+</center>

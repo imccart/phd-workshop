@@ -1,23 +1,25 @@
 ---
-title: "Professional Norms and Etiquette"
-slug: etiquette
-output:
-  blogdown::html_page:
-    toc: false
-    fig_caption: false
+title: "Professional Etiquette for PhDs"
+linktitle: "Overview"
+date: "2020-12-20"
+menu:
+  etiquette:
+type: docs
+weight: -1
 ---
 
-```{r setup, include = FALSE, cache = FALSE}
-knitr::opts_chunk$set(error = TRUE, comment = NA, warnings = FALSE, errors = FALSE, messages = FALSE, tidy = FALSE, echo = FALSE)
-```
+Most PhDs have never had a standard "boss." Never worked in an office setting. Never managed other employees. I think this tends to give academics a sense of normalcy around otherwise very odd, unprofessional, and outright inappropriate behaviors. In my opinion, this is also one of the reasons that Economics in particular struggles with diversity. Too many very strange behaviors are dismissed as just part of the culture. Well, it doesn't have to be that way. The goal of this portion of the workshop is to ensure that you contribute to the culture in a positive way!
+
+We'll go through some specific examples of what not to do and some specific strategies that I think can help us all be better professionals. But I think a lot about "being professional" can be summarized in three simple rules:
 
 
-<center>
+:::fyi
+**Rules of Etiquette**<br>
+  1. Give others the benefit of the doubt<br>
+  2. Always assume you made the mistake until proven otherwise<br>
+  3. Respect others' time
 
-```{r}
-knitr::include_url("https://imccart.github.io/phd-workshop-content/etiquette/slides.html")
-```
+"Others" means **everyone**, not just "other professors"
+:::
 
-<p><a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/phd-workshop-content/etiquette/slides.html"><i class="fas fa-external-link-alt"></i> View slides in new window</a> <a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/phd-workshop-content/etiquette/slides.pdf" role="button"><i class="far fa-file-pdf"></i> Download PDF of slides</a></p>
-
-</center>
+Follow the links to the left for some extra information in specific areas.

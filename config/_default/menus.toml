@@ -28,6 +28,10 @@
   url = "resource"
   weight = 5
 
+[[etiquette]]
+  name = "Topics"
+  weight = 1
+
 [[year3]]
   name = "Overview"
   weight = 1
