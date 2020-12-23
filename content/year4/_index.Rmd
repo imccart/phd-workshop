@@ -1,5 +1,5 @@
 ---
-title: Navigating the site
+title: "Who should hear this?"
 date: "2020-12-20"
 menu:
   year4:
@@ -8,4 +8,10 @@ type: docs
 weight: -1
 ---
 
-Some cool stuff
+Your job market paper is almost finished, you have other work finished or maybe even published, and you're ready to go out there on your own! This is a super-exciting time, but it can also be intimidating and scary. 
+
+<img src="https://media.giphy.com/media/H22R4SWhjfEQCnueDI/giphy.gif#center" alt="independence">
+
+This is our **4th year workshop**. As the name suggests, the material is intended for students that are preparing for the job market.  
+
+

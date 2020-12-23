@@ -4,24 +4,29 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
+  name = "Etiquette"
+  url = "etiquette"
+  weight = 1
+
+[[main]]
   name = "3rd Year"
   url = "year3"
-  weight = 1
+  weight = 2
 
 [[main]]
   name = "4th Year"
   url = "year4"
-  weight = 2
+  weight = 3
 
 [[main]]
   name = "5th Year"
   url = "year5"
-  weight = 3
+  weight = 4
   
 [[main]]
   name = "Resources"
   url = "resource"
-  weight = 4
+  weight = 5
 
 [[year3]]
   name = "Overview"

@@ -1,0 +1,12 @@
+---
+title: "Version Control and File Management"
+linktitle: "2: Keep track"
+date: "2020-12-20"
+menu:
+  year3:
+    parent: "Workflow"
+type: docs
+weight: 2
+---
+
+Help your future self (and others).

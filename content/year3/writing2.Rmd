@@ -1,0 +1,12 @@
+---
+title: "Best Practices for Writing Academic Papers"
+linktitle: "2: Do it well"
+date: "2020-12-20"
+menu:
+  year3:
+    parent: "How to Write"
+type: docs
+weight: 2
+---
+
+There's no strict formula for writing a good academic paper. 
