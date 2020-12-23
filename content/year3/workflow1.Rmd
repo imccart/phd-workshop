@@ -17,10 +17,6 @@ So you have a great idea?! That's awesome. Chances are, this great idea didn't c
 
 Here, we'll share some things that seem to work for organizing your research ideas and, eventually, your full research projects.
 
-:::fyi
-**Fun fact**: If you type <kbd>?</kbd> (or <kbd>shift</kbd> + <kbd>/</kbd>) while going through the slides, you can see a list of special slide-specific commands.
-:::
-
 <center>
 
 ```{r}
