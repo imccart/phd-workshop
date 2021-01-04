@@ -5,7 +5,7 @@ menu:
   year4:
     parent: Overview
 type: docs
-weight: -1
+weight: 1
 ---
 
 Your job market paper is almost finished, you have other work finished or maybe even published, and you're ready to go out there on your own! This is a super-exciting time, but it can also be intimidating and scary. 

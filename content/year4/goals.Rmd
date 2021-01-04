@@ -5,7 +5,7 @@ menu:
   year4:
     parent: Overview
 type: docs
-weight: -1
+weight: 2
 ---
 
 The main goal of the **4th year workshop** to help you sell yourself as best as possible on the job market. We'll do this in three steps:
