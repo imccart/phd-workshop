@@ -9,4 +9,21 @@ type: docs
 weight: 2
 ---
 
-Help your future self (and others).
+```{r setup, include = FALSE, cache = FALSE}
+knitr::opts_chunk$set(error = TRUE, comment = NA, warnings = FALSE, errors = FALSE, messages = FALSE, tidy = FALSE, echo = FALSE)
+```
+
+Help your future self (and others) by keeping track of your research. This is particularly critical if you're doing any sort of empirical work. How exactly did you deal with those odd values? Which observations did you drop and why? Didn't you already try that approach before? Where are those results?
+
+Here, we'll cover some best practices for keeping track of your work. This is effectively all about replicability, but it's also about improving your research efficiency.
+
+<center>
+
+```{r}
+knitr::include_url("https://imccart.github.io/phd-workshop-content/year3/tracking.html")
+```
+
+
+<p><a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/phd-workshop-content/year3/tracking.html"><i class="fas fa-external-link-alt"></i> View slides in new window</a></p>
+
+</center>
