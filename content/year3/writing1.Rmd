@@ -12,3 +12,14 @@ weight: 1
 Perhaps the key to writing is actually writing. What does that mean? It means you need to force yourself to start writing early and often. Students usually spend **way** too much time thinking about what they want to write and avoiding actual writing. Research is **not** linear...you can't just do the work and then prepare the paper.
 
 Here, we'll talk about some specific strategies for incorporating writing into the research process, so that it becomes both an input and an output.
+
+<center>
+
+```{r}
+knitr::include_url("https://imccart.github.io/phd-workshop-content/year3/start-writing.html")
+```
+
+
+<p><a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/phd-workshop-content/year3/start-writing.html"><i class="fas fa-external-link-alt"></i> View slides in new window</a></p>
+
+</center>

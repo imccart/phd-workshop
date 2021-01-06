@@ -9,4 +9,16 @@ type: docs
 weight: 2
 ---
 
-There's no strict formula for writing a good academic paper. 
+There's no strict formula for writing a good academic paper, but there are certainly some guidelines to help improve the probability of writing a good paper. Here, we'll talk about some simple rules you can try to follow to improve your writing.
+
+
+<center>
+
+```{r}
+knitr::include_url("https://imccart.github.io/phd-workshop-content/year3/write-better.html")
+```
+
+
+<p><a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/phd-workshop-content/year3/write-better.html"><i class="fas fa-external-link-alt"></i> View slides in new window</a></p>
+
+</center>
