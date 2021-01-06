@@ -29,6 +29,10 @@
   weight = 5
 
 [[etiquette]]
+  name = "Overview"
+  weight = 1
+
+[[etiquette]]
   name = "Topics"
   weight = 2
 

@@ -1,0 +1,23 @@
+---
+title: "Professional Etiquette for PhDs"
+linktitle: "The golden rules"
+date: "2020-12-20"
+menu:
+  etiquette:
+      parent: "Overview"
+type: docs
+weight: 2
+---
+
+But I think a lot about "being professional" can be summarized in three simple rules:
+
+:::fyi
+**Rules of Etiquette**<br>
+  1. Give others the benefit of the doubt<br>
+  2. Always assume you made the mistake until proven otherwise<br>
+  3. Respect others' time
+
+"Others" means **everyone**, not just "other professors"
+:::
+
+Follow the links to the left for some extra information in specific areas.

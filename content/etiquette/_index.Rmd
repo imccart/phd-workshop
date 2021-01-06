@@ -4,13 +4,16 @@ linktitle: "Overview"
 date: "2020-12-20"
 menu:
   etiquette:
+      parent: "Overview"
 type: docs
-weight: -1
+weight: 1
 ---
 
 Most PhDs have never had a standard "boss." Never worked in an office setting. Never managed other employees. I think this tends to give academics a sense of normalcy around otherwise very odd, unprofessional, and outright inappropriate behaviors. In my opinion, this is also one of the reasons that Economics in particular struggles with diversity and inclusion. Too many very strange behaviors are dismissed as just part of the culture. Well, it doesn't have to be that way. The goal of this portion of the workshop is to ensure that you contribute to the "Economist" culture in a positive way!
 
-We'll go through some specific examples of what not to do and some specific strategies that I think can help us all be better professionals. But I think a lot about "being professional" can be summarized in three simple rules:
+We'll go through some specific examples of what not to do and some specific strategies that I think can help us all be better professionals. 
+
+But I think a lot about "being professional" can be summarized in three simple rules:
 
 
 :::fyi
