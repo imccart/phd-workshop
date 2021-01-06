@@ -9,6 +9,11 @@ type: docs
 weight: 2
 ---
 
+```{r setup, include = FALSE, cache = FALSE}
+knitr::opts_chunk$set(error = TRUE, comment = NA, warnings = FALSE, errors = FALSE, messages = FALSE, tidy = FALSE, echo = FALSE)
+```
+
+
 There's no strict formula for writing a good academic paper, but there are certainly some guidelines to help improve the probability of writing a good paper. Here, we'll talk about some simple rules you can try to follow to improve your writing.
 
 
