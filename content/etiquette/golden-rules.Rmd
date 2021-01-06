@@ -9,7 +9,7 @@ type: docs
 weight: 2
 ---
 
-But I think a lot about "being professional" can be summarized in three simple rules:
+We'll go through some specific examples of what not to do and some specific strategies that I think can help us all be better professionals. But I think a lot about "being professional" can be summarized in three simple rules:
 
 :::fyi
 **Rules of Etiquette**<br>
