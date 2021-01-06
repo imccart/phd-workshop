@@ -9,4 +9,21 @@ type: docs
 weight: 3
 ---
 
-For heaven's sake, save and backup your damn work!! 
+```{r setup, include = FALSE, cache = FALSE}
+knitr::opts_chunk$set(error = TRUE, comment = NA, warnings = FALSE, errors = FALSE, messages = FALSE, tidy = FALSE, echo = FALSE)
+```
+
+For heaven's sake, save and backup your damn work!! With all of the resources available, there's really no excuse for losing work anymore; although I've heard some horror stories of several drives failing at once, the data on which was proprietary and unlikely to be re-released to the researchers. This is scary.
+
+Here, we'll talk about some basic tips for backing up your data and all of your work. When someone later asks you for your code or your data, you really shouldn't be able to [say that you lost it](https://web.archive.org/web/20110606235648/http:/www.cse.unsw.edu.au/~lambert/guns/lindgren.html). 
+
+<center>
+
+```{r}
+knitr::include_url("https://imccart.github.io/phd-workshop-content/year3/backup.html")
+```
+
+
+<p><a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/phd-workshop-content/year3/backup.html"><i class="fas fa-external-link-alt"></i> View slides in new window</a></p>
+
+</center>
