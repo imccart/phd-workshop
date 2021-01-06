@@ -1,6 +1,6 @@
 ---
-title: "Professional Etiquette for PhDs"
-linktitle: "The golden rules"
+title: "Professional rules to live by"
+linktitle: "Three golden rules"
 date: "2020-12-20"
 menu:
   etiquette:
