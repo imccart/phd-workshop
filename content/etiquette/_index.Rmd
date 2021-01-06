@@ -9,4 +9,9 @@ type: docs
 weight: 1
 ---
 
-Most PhDs have never had a standard "boss." Never worked in an office setting. Never managed other employees. I think this tends to give academics a sense of normalcy around otherwise very odd, unprofessional, and outright inappropriate behaviors. In my opinion, this is also one of the reasons that Economics in particular struggles with diversity and inclusion. Too many very strange behaviors are dismissed as just part of the culture. Well, it doesn't have to be that way. The goal of this portion of the workshop is to ensure that you contribute to the "Economist" culture in a positive way!
+Most PhDs have never had a standard "boss." Never worked in an office setting. Never managed other employees. I think this tends to give academics a sense of normalcy around otherwise very odd, unprofessional, and outright inappropriate behaviors. 
+
+<img src="https://media.giphy.com/media/YoKhJRQFYdAqKIIqam/source.gif#center" alt="unprofessional">
+
+I also think this is one of the reasons that Economics in particular struggles with diversity and inclusion. Too many very strange behaviors are dismissed as just part of the culture. Well, it doesn't have to be that way. The goal of this portion of the workshop is to ensure that you contribute to the "Economist" culture in a positive way!
+
