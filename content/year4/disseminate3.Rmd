@@ -1,0 +1,30 @@
+---
+title: "Understanding the publication process"
+linktitle: "3: Publishing"
+date: "2020-12-20"
+menu:
+  year4:
+    parent: "Will Anyone Read This?"
+type: docs
+weight: 3
+---
+
+```{r setup, include = FALSE, cache = FALSE}
+knitr::opts_chunk$set(error = TRUE, comment = NA, warnings = FALSE, errors = FALSE, messages = FALSE, tidy = FALSE, echo = FALSE)
+```
+
+
+You've written a complete paper - yay!! You've presented the paper and gotten lots of great comments - well done! Now you have to prepare for the insanity that is the publication process.
+
+Here, we'll set expectations for when you finally try to publish that perfect paper you've written.
+
+<center>
+
+```{r}
+knitr::include_url("https://imccart.github.io/phd-workshop-content/year4/publish.html")
+```
+
+
+<p><a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/phd-workshop-content/year4/publish.html"><i class="fas fa-external-link-alt"></i> View slides in new window</a></p>
+
+</center>

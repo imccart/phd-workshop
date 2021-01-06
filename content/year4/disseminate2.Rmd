@@ -1,0 +1,30 @@
+---
+title: "Quickly summarizing your work for the public"
+linktitle: "2: Summarizing"
+date: "2020-12-20"
+menu:
+  year4:
+    parent: "Will Anyone Read This?"
+type: docs
+weight: 2
+---
+
+```{r setup, include = FALSE, cache = FALSE}
+knitr::opts_chunk$set(error = TRUE, comment = NA, warnings = FALSE, errors = FALSE, messages = FALSE, tidy = FALSE, echo = FALSE)
+```
+
+
+You've written a complete paper - yay!! Now pick someone you know outside of academia and imagine they find your paper. Would they care at all? How would you describe your work (briefly and compellingly) to them?
+
+Here, we'll talk about some simple strategies for quickly summarizing your work for a potentially non-academic audience (or at least an audience not specifically in your field). 
+
+<center>
+
+```{r}
+knitr::include_url("https://imccart.github.io/phd-workshop-content/year4/summarize.html")
+```
+
+
+<p><a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/phd-workshop-content/year4/summarize.html"><i class="fas fa-external-link-alt"></i> View slides in new window</a></p>
+
+</center>

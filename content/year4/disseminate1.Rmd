@@ -1,0 +1,30 @@
+---
+title: "Presenting and attending conferences"
+linktitle: "1: Presenting"
+date: "2020-12-20"
+menu:
+  year4:
+    parent: "Will Anyone Read This?"
+type: docs
+weight: 1
+---
+
+```{r setup, include = FALSE, cache = FALSE}
+knitr::opts_chunk$set(error = TRUE, comment = NA, warnings = FALSE, errors = FALSE, messages = FALSE, tidy = FALSE, echo = FALSE)
+```
+
+
+You've written a complete paper - yay!! Now you need to get your results out there in front of people, and a common way to do that is to go present your work.
+
+Here, we'll talk about norms and expectations for conferences and go over some rules for improving your presentations.
+
+<center>
+
+```{r}
+knitr::include_url("https://imccart.github.io/phd-workshop-content/year4/present.html")
+```
+
+
+<p><a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/phd-workshop-content/year4/present.html"><i class="fas fa-external-link-alt"></i> View slides in new window</a></p>
+
+</center>
