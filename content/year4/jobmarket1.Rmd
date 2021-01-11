@@ -1,0 +1,29 @@
+---
+title: "Understanding the job market"
+linktitle: "1: What is it like?"
+date: "2020-12-20"
+menu:
+  year4:
+    parent: "The Job Market"
+type: docs
+weight: 1
+---
+
+```{r setup, include = FALSE, cache = FALSE}
+knitr::opts_chunk$set(error = TRUE, comment = NA, warnings = FALSE, errors = FALSE, messages = FALSE, tidy = FALSE, echo = FALSE)
+```
+
+
+So you're thinking about going on the job market next year? Well, before we talk about how to do that successfully, let's talk about what the job market is like. 
+
+
+<center>
+
+```{r}
+knitr::include_url("https://imccart.github.io/phd-workshop-content/year4/the-market.html")
+```
+
+
+<p><a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/phd-workshop-content/year4/the-market.html"><i class="fas fa-external-link-alt"></i> View slides in new window</a></p>
+
+</center>

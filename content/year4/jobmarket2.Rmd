@@ -1,0 +1,29 @@
+---
+title: "Collecting materials for the job market"
+linktitle: "2: Job market materials"
+date: "2020-12-20"
+menu:
+  year4:
+    parent: "The Job Market"
+type: docs
+weight: 1
+---
+
+```{r setup, include = FALSE, cache = FALSE}
+knitr::opts_chunk$set(error = TRUE, comment = NA, warnings = FALSE, errors = FALSE, messages = FALSE, tidy = FALSE, echo = FALSE)
+```
+
+
+At this point, you should have a couple of papers under your belt, and it's time to start thinking about other things you need to begin to enter the job market...things like a CV, a syllabus, etc. Here, we'll work through some basic requirements and suggestions for these stand-alone documents.
+
+
+<center>
+
+```{r}
+knitr::include_url("https://imccart.github.io/phd-workshop-content/year4/basic-materials.html")
+```
+
+
+<p><a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/phd-workshop-content/year4/basic-materials.html"><i class="fas fa-external-link-alt"></i> View slides in new window</a></p>
+
+</center>
