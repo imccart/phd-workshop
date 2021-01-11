@@ -1,6 +1,6 @@
 ---
 title: "Collecting materials for the job market"
-linktitle: "2: Job market materials"
+linktitle: "2: Collecting materials"
 date: "2020-12-20"
 menu:
   year4:
