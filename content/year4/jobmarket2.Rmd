@@ -20,10 +20,10 @@ At this point, you should have a couple of papers under your belt, and it's time
 <center>
 
 ```{r}
-knitr::include_url("https://imccart.github.io/phd-workshop-content/year4/basic-materials.html")
+knitr::include_url("https://imccart.github.io/phd-workshop-content/year4/market-materials.html")
 ```
 
 
-<p><a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/phd-workshop-content/year4/basic-materials.html"><i class="fas fa-external-link-alt"></i> View slides in new window</a></p>
+<p><a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/phd-workshop-content/year4/market-materials.html"><i class="fas fa-external-link-alt"></i> View slides in new window</a></p>
 
 </center>
