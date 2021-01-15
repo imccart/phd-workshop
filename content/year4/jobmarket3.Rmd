@@ -27,3 +27,6 @@ knitr::include_url("https://imccart.github.io/phd-workshop-content/year4/website
 <p><a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/phd-workshop-content/year4/website.html"><i class="fas fa-external-link-alt"></i> View slides in new window</a></p>
 
 </center>
+
+
+The slides are really just general overview and basic rules to consider. We'll also work through a live example to deploy a site during the workshop.
