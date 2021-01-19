@@ -1,6 +1,6 @@
 ---
 title: Economics Professionalism Workshop
-date: "2021-1-15"
+date: "2021-1-10"
 output:
   blogdown::html_page:
     toc: false
@@ -8,7 +8,10 @@ output:
 
 Here we've assembled all of the external resources for the workshop. These are templates that you can use to get started with different documents. Each item in the list below is linked to a private GitHub repo. Anyone who has attended this workshop should have access to these repos - if not, please let me know.
 
-- Example workflow in R: This is its own GitHub repo that assembles a hypothetical paper based on a built-in dataset within R. The main point of this example workflow is to ensure our research is easily reproducible (both to others and to our future selves).
-- Example website: This is its own GitHub repo that maintains a basic set of files for getting started with the "Academic" Hugo theme (in R).
+- [Example workflow in R](https://github.com/imccart/test-project): This is its own GitHub repo that assembles a hypothetical paper based on a built-in dataset within R. The main point of this example workflow is to ensure our research is easily reproducible (both to others and to our future selves). For context and extra description, see the accompanying videos:
+    + [Initiate project](https://youtu.be/uLap5OxKSB0)
+    + [Run project](https://youtu.be/-DRmq7tfa0Y)
+    + [Write papers](https://youtu.be/w-VTCmgJ0m8)
+    + [Correction](https://youtu.be/n7gzKD1F0Yg) In the previous video, I was "showing" the abstract and paper PDFs on a different screen (which was not being recorded). This video just shows those PDFs.
 - [CV templates](https://github.com/imccart/phd-workshop-template/tree/master/cv): A couple of examples from which you can get your own CV up and running
 - [Cover letter templates](https://github.com/imccart/phd-workshop-template/tree/master/cover-letter): You can use these templates for a cover letter for your job market applications as well your journal submissions
