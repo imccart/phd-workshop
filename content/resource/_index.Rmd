@@ -6,7 +6,7 @@ output:
     toc: false
 ---
 
-Here we've assembled all of the external resources for the workshop. These are templates that you can use to get started with different documents. Each item in the list below is linked to a private GitHub repo. Anyone who has attended this workshop should have access to these repos - if not, please let me know.
+Here we've assembled all of the external resources for the workshop. These are templates that you can use to get started with different documents.
 
 - [Example workflow in R](https://github.com/imccart/test-project): This is its own GitHub repo that assembles a hypothetical paper based on a built-in dataset within R. The main point of this example workflow is to ensure our research is easily reproducible (both to others and to our future selves). For context and extra description, see the accompanying videos:
     + [Initiate project](https://youtu.be/uLap5OxKSB0)
