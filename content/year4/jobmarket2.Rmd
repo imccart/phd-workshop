@@ -28,4 +28,4 @@ knitr::include_url("https://imccart.github.io/phd-workshop-content/year4/market-
 
 </center>
 
-Be sure to check the [resources](/resource/) page to access any Emory-specific templates. Note -- you'll need special access for these materials, which all Emory Economics students should have.
+Be sure to check the [resources](/resource/) page to access any Emory-specific templates.
