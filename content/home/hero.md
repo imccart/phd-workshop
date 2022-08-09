@@ -24,7 +24,7 @@ title = "Professionalism Workshop"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
-  label = 'Fall 2021<br>Department of Economics<br>Emory University'
+  label = 'Fall 2022 - Spring 2023<br>Department of Economics<br>Emory University'
 +++
 
 **working through the "unwritten" aspects of preparing for and navigating the job market for economics PhD students**
