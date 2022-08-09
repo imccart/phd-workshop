@@ -8,11 +8,8 @@ output:
 
 Here we've assembled all of the external resources for the workshop. These are templates that you can use to get started with different documents.
 
-- [Example workflow in R](https://github.com/imccart/test-project): This is its own GitHub repo that assembles a hypothetical paper based on a built-in dataset within R. The main point of this example workflow is to ensure our research is easily reproducible (both to others and to our future selves). For context and extra description, see the accompanying videos:
-    + [Initiate project](https://youtu.be/uLap5OxKSB0)
-    + [Run project](https://youtu.be/-DRmq7tfa0Y)
-    + [Write papers](https://youtu.be/w-VTCmgJ0m8)
-    + [Correction](https://youtu.be/n7gzKD1F0Yg) In the previous video, I was "showing" the abstract and paper PDFs on a different screen (which was not being recorded). This video just shows those PDFs.
+- [Research template](https://github.com/imccart/research-template): This is a template for a basic directory structure and set of code files. This can be used in conjunction with the [example workflow in R](https://github.com/imccart/test-project) if writing the paper in R Markdown. If you're otherwise writing the paper outside of R, the research template will help initiate a standard folder/file structure for a new research project.
+- [Example workflow in R](https://github.com/imccart/test-project): This is its own GitHub repo that assembles a hypothetical paper based on a built-in dataset within R. The main point of this example workflow is to ensure our research is easily reproducible (both to others and to our future selves). 
 - [Example Academic Website](https://hollina.github.io/make-a-job-market-website.html): This is a guide to getting an academic website up and running with Hugo-Academic theme (now called [Wowchemy](https://wowchemy.com/)), where Alex Hollingsworth provides some great advice. You can see his example site [here](https://job-candidate.netlify.app/) and the template repo [here](https://github.com/hollina/template-job-market-website).
-- [CV templates](https://github.com/imccart/phd-workshop-template/tree/master/cv): A couple of examples from which you can get your own CV up and running
-- [Cover letter templates](https://github.com/imccart/phd-workshop-template/tree/master/cover-letter): You can use these templates for a cover letter for your job market applications as well your journal submissions
+- [CV templates](https://github.com/imccart/phd-workshop-template/tree/master/cv): A couple of examples from which you can get your own CV up and running.
+- [Cover letter templates](https://github.com/imccart/phd-workshop-template/tree/master/cover-letter): You can use these templates for a cover letter for your job market applications as well your journal submissions.
