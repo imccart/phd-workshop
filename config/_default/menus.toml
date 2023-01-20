@@ -63,6 +63,10 @@
   name = "What now?"
   weight = 2
 
+[[year2]]
+  name = "Moving forward"
+  weight = 3
+
 
 [[year3]]
   name = "Overview"

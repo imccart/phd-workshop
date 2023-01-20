@@ -1,0 +1,27 @@
+---
+title: "Developing a Research Idea"
+linktitle: "Starting Off"
+date: "2023-01-20"
+menu:
+  year2:
+    parent: "What now?"
+type: docs
+weight: 2
+---
+
+```{r setup, include = FALSE, cache = FALSE}
+knitr::opts_chunk$set(error = TRUE, comment = NA, warnings = FALSE, errors = FALSE, messages = FALSE, tidy = FALSE, echo = FALSE)
+```
+
+Congratulations on passing your core exams!! At this point, you're probably starting to stress about how to begin the transition into research. In this section, we'll work through some best practices for developing research ideas.
+
+<center>
+
+```{r}
+knitr::include_url("https://imccart.github.io/phd-workshop-content/year2/ideas.html")
+```
+
+
+<p><a class="btn btn-primary btn-lg" target="_blank" href="https://imccart.github.io/phd-workshop-content/year2/ideas.html"><i class="fas fa-external-link-alt"></i> View slides in new window</a></p>
+
+</center>
