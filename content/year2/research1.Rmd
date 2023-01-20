@@ -13,7 +13,7 @@ weight: 2
 knitr::opts_chunk$set(error = TRUE, comment = NA, warnings = FALSE, errors = FALSE, messages = FALSE, tidy = FALSE, echo = FALSE)
 ```
 
-Congratulations on passing your core exams!! At this point, you're probably starting to stress about how to begin the transition into research. In this section, we'll work through some best practices for developing research ideas.
+Congratulations on passing your core exams!! At this point, you're probably starting to stress about how to begin the transition into research. In this section, we'll work through some best practices for developing research ideas. We'll also talk to some senior graduate students about their experiences in the 2nd year.
 
 <center>
 
