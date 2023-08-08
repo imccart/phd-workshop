@@ -48,7 +48,7 @@ local_business_type = ""
 org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Helping Emory PhD Students Prepare for the Econ Job Market"
+description = "Helping Emory PhD Students Succeed in the Economics PhD Program"
 
 ############################
 ## Site Features
@@ -87,7 +87,7 @@ edit_page = ""
 
 author = "Ian McCarthy"
 instructor = {name = "Ian McCarthy", email = "ian.mccarthy@emory.edu", url = "https://www.ianmccarthyecon.com", twitter = "ianhealthecon", office = "PAIS 573", github = "imccart", appointment_url = "https://mccarthy-meetings.youcanbook.me/"}
-course = {github = "github.com/imccart/phd-workshop", copyrightYear = "2022"}
+course = {github = "github.com/imccart/phd-workshop", copyrightYear = "2023"}
 university = {name = "Emory University", url = "https://www.emory.edu/home/index.html"}
 school = {name = "Department of Economics", url = "http://economics.emory.edu/home/index.html"}
 
