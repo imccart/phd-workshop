@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Who should hear this? | Emory Economics PhD Workshop</title>
+    <link>/year3/</link>
+      <atom:link href="/year3/index.xml" rel="self" type="application/rss+xml" />
+    <description>Who should hear this?</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><lastBuildDate>Sun, 20 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Who should hear this?</title>
+      <link>/year3/</link>
+    </image>
+    
+    <item>
+      <title>Early and Often</title>
+      <link>/year3/writing1/</link>
+      <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/year3/writing1/</guid>
+      <description>
+
+
+&lt;p&gt;Perhaps the key to writing is actually writing. What does that mean? It means you need to force yourself to start writing early and often. Students usually spend &lt;strong&gt;way&lt;/strong&gt; too much time thinking about what they want to write and avoiding actual writing. Research is &lt;strong&gt;not&lt;/strong&gt; linear…you can’t just do the work and then prepare the paper.&lt;/p&gt;
+&lt;p&gt;Here, we’ll talk about some specific strategies for incorporating writing into the research process, so that it becomes both an input and an output.&lt;/p&gt;
+&lt;center&gt;
+&lt;iframe src=&#34;https://imccart.github.io/phd-workshop-content/year3/start-writing.html&#34; width=&#34;672&#34; height=&#34;400px&#34;&gt;
+&lt;/iframe&gt;
+&lt;p&gt;
+&lt;a class=&#34;btn btn-primary btn-lg&#34; target=&#34;_blank&#34; href=&#34;https://imccart.github.io/phd-workshop-content/year3/start-writing.html&#34;&gt;&lt;i class=&#34;fas fa-external-link-alt&#34;&gt;&lt;/i&gt; View slides in new window&lt;/a&gt;
+&lt;/p&gt;
+&lt;/center&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Organize Your Projects</title>
+      <link>/year3/workflow1/</link>
+      <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/year3/workflow1/</guid>
+      <description>
+
+
+&lt;p&gt;So you have a great idea?! That’s awesome. Chances are, this great idea didn’t come to you while you were sitting comfortably in your office/research space, ready to calmly write down some ideas and carefully organize things. If you’re like me, you have an idea when you’re riding your bike, or laying down to watch TV before you go to bed, or when your kids are all having a breakdown and you decide to reorient your research toward to costs and benefits of corporal punishment.&lt;/p&gt;
+&lt;p&gt;Here, we’ll share some things that seem to work for organizing your research ideas and, eventually, your full research projects.&lt;/p&gt;
+&lt;center&gt;
+&lt;iframe src=&#34;https://imccart.github.io/phd-workshop-content/year3/organize.html&#34; width=&#34;672&#34; height=&#34;400px&#34; data-external=&#34;1&#34;&gt;
+&lt;/iframe&gt;
+&lt;p&gt;
+&lt;a class=&#34;btn btn-primary btn-lg&#34; target=&#34;_blank&#34; href=&#34;https://imccart.github.io/phd-workshop-content/year3/organize.html&#34;&gt;&lt;i class=&#34;fas fa-external-link-alt&#34;&gt;&lt;/i&gt; View slides in new window&lt;/a&gt;
+&lt;/p&gt;
+&lt;/center&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Best Practices for Writing Academic Papers</title>
+      <link>/year3/writing2/</link>
+      <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/year3/writing2/</guid>
+      <description>
+
+
+&lt;p&gt;There’s no strict formula for writing a good academic paper, but there are certainly some guidelines to help improve the probability of writing a good paper. Here, we’ll talk about some simple rules you can try to follow to improve your writing.&lt;/p&gt;
+&lt;center&gt;
+&lt;iframe src=&#34;https://imccart.github.io/phd-workshop-content/year3/write-better.html&#34; width=&#34;672&#34; height=&#34;400px&#34;&gt;
+&lt;/iframe&gt;
+&lt;p&gt;
+&lt;a class=&#34;btn btn-primary btn-lg&#34; target=&#34;_blank&#34; href=&#34;https://imccart.github.io/phd-workshop-content/year3/write-better.html&#34;&gt;&lt;i class=&#34;fas fa-external-link-alt&#34;&gt;&lt;/i&gt; View slides in new window&lt;/a&gt;
+&lt;/p&gt;
+&lt;/center&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Version Control and File Management</title>
+      <link>/year3/workflow2/</link>
+      <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/year3/workflow2/</guid>
+      <description>
+
+
+&lt;p&gt;Help your future self (and others) by keeping track of your research. This is particularly critical if you’re doing any sort of empirical work. How exactly did you deal with those odd values? Which observations did you drop and why? Didn’t you already try that approach before? Where are those results?&lt;/p&gt;
+&lt;p&gt;Here, we’ll cover some best practices for keeping track of your work. This is effectively all about replicability, but it’s also about improving your research efficiency. I also have a GitHub repo and short videos on our &lt;a href=&#34;/resource/&#34;&gt;Resources&lt;/a&gt; page that cover some of the specifics.&lt;/p&gt;
+&lt;center&gt;
+&lt;iframe src=&#34;https://imccart.github.io/phd-workshop-content/year3/tracking.html&#34; width=&#34;672&#34; height=&#34;400px&#34;&gt;
+&lt;/iframe&gt;
+&lt;p&gt;
+&lt;a class=&#34;btn btn-primary btn-lg&#34; target=&#34;_blank&#34; href=&#34;https://imccart.github.io/phd-workshop-content/year3/tracking.html&#34;&gt;&lt;i class=&#34;fas fa-external-link-alt&#34;&gt;&lt;/i&gt; View slides in new window&lt;/a&gt;
+&lt;/p&gt;
+&lt;/center&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>What&#39;s the point?</title>
+      <link>/year3/goals/</link>
+      <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/year3/goals/</guid>
+      <description>
+&lt;link href=&#34;/rmarkdown-libs/anchor-sections/anchor-sections.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;/rmarkdown-libs/anchor-sections/anchor-sections.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;The purpose of this &lt;strong&gt;3rd year workshop&lt;/strong&gt; is to share some of best practices and general advice with you, not for you to become a research robot. Every project is different, so there really isn’t a single best way to approach every project. But with a good foundation, you should find it easier to revisit old projects (e.g., after 6+ months waiting for reviews), identify promising new research, quickly filter out bad ideas, and write more compelling papers that (some) people actually want to read.&lt;/p&gt;
+&lt;p&gt;There are &lt;strong&gt;two central goals&lt;/strong&gt; to the 3rd year workshop:&lt;/p&gt;
+&lt;div id=&#34;improve-your-workflow&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;1. Improve your workflow&lt;/h3&gt;
+&lt;p&gt;Understand some best practices for the research workflow, including strategies for collecting and organizing your ideas, replicability and version control, and backing up your work.&lt;/p&gt;
+&lt;p&gt;This is something that can save you a ton of time. With a good workflow, you can sort through ideas quickly and efficiently, organize literature reviews quickly, and keep track of what you’ve done (and what you want to do) for lots of projects. Most academics have wasted weeks of time due to bad workflow (myself included). Hopefully we can avoid some portion of this lost time for you.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;become-a-better-writer&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;2. Become a better writer&lt;/h3&gt;
+&lt;p&gt;Most of us like to think of ourselves as good writers. Unfortunately most of us are probably wrong. As part of this workshop, we’ll share some general guidance on how to write an academic paper, including some ideas for a better “writing workflow” to ensure you’re writing as efficiently as possible.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Avoid Catastrophe</title>
+      <link>/year3/workflow3/</link>
+      <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/year3/workflow3/</guid>
+      <description>
+&lt;link href=&#34;/rmarkdown-libs/anchor-sections/anchor-sections.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;/rmarkdown-libs/anchor-sections/anchor-sections.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;For heaven’s sake, save and backup your damn work!! With all of the resources available, there’s really no excuse for losing work anymore; although I’ve heard some horror stories of several drives failing at once, the data on which was proprietary and unlikely to be re-released to the researchers. This is scary.&lt;/p&gt;
+&lt;p&gt;Here, we’ll talk about some basic tips for backing up your data and all of your work. When someone later asks you for your code or your data, you really shouldn’t be able to &lt;a href=&#34;https://web.archive.org/web/20110606235648/http:/www.cse.unsw.edu.au/~lambert/guns/lindgren.html&#34;&gt;say that you lost it&lt;/a&gt;.&lt;/p&gt;
+&lt;center&gt;
+&lt;iframe src=&#34;https://imccart.github.io/phd-workshop-content/year3/backup.html&#34; width=&#34;672&#34; height=&#34;400px&#34;&gt;
+&lt;/iframe&gt;
+&lt;p&gt;
+&lt;a class=&#34;btn btn-primary btn-lg&#34; target=&#34;_blank&#34; href=&#34;https://imccart.github.io/phd-workshop-content/year3/backup.html&#34;&gt;&lt;i class=&#34;fas fa-external-link-alt&#34;&gt;&lt;/i&gt; View slides in new window&lt;/a&gt;
+&lt;/p&gt;
+&lt;/center&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
