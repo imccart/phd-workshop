@@ -1,0 +1,121 @@
+---
+pagetitle: "Emory Economics PhD Workshop"
+details: " "
+page-layout: custom
+sidebar: false
+toc: false
+---
+
+```{css, echo=FALSE}
+.content-block {
+  padding-top: 20px;
+  padding-bottom: 10px;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+@media(min-width: 900px) {
+  .content-block {
+    margin-left: 50px;
+    margin-right: 50px;
+  }
+}
+
+@media(min-width: 1200px) {
+  .content-block {
+    max-width: 1100px;
+    margin: 0 auto;
+  }
+}
+
+```
+
+
+::: {.content-block}
+
+# Professionalism Workshop
+
+::: {.text-secondary .fs-4}
+
+Working through the "unwritten" aspects of preparing for and navigating the job market for economics PhD students
+
+
+Department of Economics<br>
+Emory University<br>
+**Follow us!** [{{< fa brands linkedin >}}](https://www.linkedin.com/company/emory-university-department-of-economics), [{{< fa brands facebook >}}](https://www.facebook.com/EmoryEcon/), and [{{< fa brands instagram >}}](https://www.instagram.com/econemory/)
+
+:::
+
+---
+
+
+::: {.grid}
+
+::: {.g-col-6}
+
+
+## Facilitator
+
+{{< fa user >}} [Ian McCarthy](https://www.ianmccarthyecon.com)<br>
+{{< fa university >}} R. Rollins, R418<br>
+{{< fa envelope >}} [ian.mccarthy@emory.edu](mailto:ian.mccarthy@emory.edu)<br>
+
+:::
+
+::: {.g-col-6}
+
+## Workshop Modules
+
+All slide decks are hosted on the [content site](https://imccart.github.io/phd-workshop-content/).
+
+:::
+
+:::
+
+---
+
+## Professional Etiquette
+
+- [Staying Organized](https://imccart.github.io/phd-workshop-content/etiquette/organization.html)
+- [Emails](https://imccart.github.io/phd-workshop-content/etiquette/emails.html)
+- [Meetings](https://imccart.github.io/phd-workshop-content/etiquette/meetings.html)
+- [Culture](https://imccart.github.io/phd-workshop-content/etiquette/culture.html)
+
+## 1st Year: Just starting the program
+
+- [Who is here and who might leave?](https://imccart.github.io/phd-workshop-content/year1/why-leave.html)
+- [Tips for sticking around](https://imccart.github.io/phd-workshop-content/year1/how-to-finish.html)
+
+## 2nd Year: From student to researcher
+
+- [Tips for generating research ideas](https://imccart.github.io/phd-workshop-content/year2/ideas.html)
+- [From idea to paper](https://imccart.github.io/phd-workshop-content/year2/moving-forward.html)
+
+## 3rd Year: Best practices in research
+
+**Basic Workflow**
+
+- [Get Organized](https://imccart.github.io/phd-workshop-content/year3/organize.html)
+- [Keep Track](https://imccart.github.io/phd-workshop-content/year3/tracking.html)
+- [Backups](https://imccart.github.io/phd-workshop-content/year3/backup.html)
+
+**Learning "How to Write"**
+
+- [Get Started](https://imccart.github.io/phd-workshop-content/year3/start-writing.html)
+- [Writing Better](https://imccart.github.io/phd-workshop-content/year3/write-better.html)
+
+## 4th Year: Preparing for the market
+
+- [Understanding the Job Market](https://imccart.github.io/phd-workshop-content/year4/the-market.html)
+- [Preparing your Materials](https://imccart.github.io/phd-workshop-content/year4/market-materials.html)
+- [Conferences and Presentations](https://imccart.github.io/phd-workshop-content/year4/present.html)
+- [Publishing](https://imccart.github.io/phd-workshop-content/year4/publish.html)
+- [Summarizing your Work](https://imccart.github.io/phd-workshop-content/year4/summarize.html)
+- [Your Website](https://imccart.github.io/phd-workshop-content/year4/website.html)
+
+## 5th Year: Finishing up
+
+- [Preparing for the Defense](https://imccart.github.io/phd-workshop-content/year5/defense.html)
+- [Post-defense Transitions](https://imccart.github.io/phd-workshop-content/year5/wrap-up.html)
+
+:::

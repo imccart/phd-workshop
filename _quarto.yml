@@ -1,0 +1,56 @@
+---
+project:
+  type: website
+  output-dir: docs
+  render:
+    - "*.qmd"
+    - "*.md"
+    - "!README.md"
+    - "!LICENSE.md"
+  resources:
+    - "files/"
+
+execute:
+  freeze: auto
+
+description-meta: "Professionalism Workshop for Emory Economics PhD Students"
+
+website:
+  title: "Emory Economics PhD Workshop"
+  site-url: "https://phd-workshop.classes.ianmccarthyecon.com/"
+
+  open-graph:
+    image: "/files/social-image-f22.png"
+    locale: en_US
+
+  repo-url: "https://github.com/imccart/phd-workshop"
+
+  page-navigation: true
+
+  navbar:
+    pinned: true
+    background: primary
+    right:
+      - text: Resources
+        href: resources.qmd
+
+  page-footer:
+    left: |
+      Content {{< fa brands creative-commons >}} 2026 by Ian McCarthy<br>
+      All content licensed under a {{< fa brands creative-commons >}}
+      {{< fa brands creative-commons-by >}} {{< fa brands creative-commons-nc >}}
+      [Creative Commons Attribution-NonCommercial 4.0 International license (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/)
+    right: |
+      Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/)<br>
+      [View the source at {{< fa brands github >}} GitHub](https://github.com/imccart/phd-workshop)
+
+
+format:
+  html:
+    theme:
+      - litera
+      - html/custom.scss
+    toc: true
+    highlight-style: monokai
+    grid:
+      sidebar-width: 350px
