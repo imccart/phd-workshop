@@ -28,6 +28,14 @@ toc: false
   }
 }
 
+/* Welcome text */
+.welcome-text {
+  font-size: 1.1rem;
+  line-height: 1.7;
+  color: #495057;
+  margin-bottom: 1.5rem;
+}
+
 /* Facilitator */
 .facilitator-card {
   border-radius: 8px;
@@ -35,48 +43,37 @@ toc: false
   margin-bottom: 2rem;
   background: #20235b;
   color: #fff;
-  display: flex;
-  align-items: center;
-  gap: 2.5rem;
-  flex-wrap: wrap;
 }
 
-.facilitator-card .facil-heading {
-  font-size: 1.1rem;
+.facil-name {
+  font-size: 1.4rem;
   font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.08em;
-  color: rgba(255,255,255,0.7);
   margin-bottom: 0.4rem;
 }
 
-.facilitator-card .facil-name {
-  font-size: 1.4rem;
-  font-weight: 700;
-  margin-bottom: 0;
-}
-
-.facilitator-card .facil-name a {
+.facil-name a {
   color: #f0be3d;
   text-decoration: none;
 }
 
-.facilitator-card .facil-name a:hover {
+.facil-name a:hover {
   color: #fff;
 }
 
-.facilitator-card .facil-detail {
+.facil-details {
+  display: flex;
+  gap: 2rem;
+  flex-wrap: wrap;
   color: rgba(255,255,255,0.85);
   font-size: 1rem;
-  margin-bottom: 0;
 }
 
-.facilitator-card .facil-detail a {
+.facil-details a {
   color: rgba(255,255,255,0.85);
   text-decoration: none;
 }
 
-.facilitator-card .facil-detail a:hover {
+.facil-details a:hover {
   color: #f0be3d;
 }
 
@@ -161,26 +158,16 @@ toc: false
 
 # Professionalism Workshop
 
-::: {.text-secondary .fs-4}
-
-Working through the "unwritten" aspects of preparing for and navigating the job market for economics PhD students
-
-Department of Economics, Emory University
-
+:::{.welcome-text}
+This workshop is designed for economics PhD students at Emory University. Each module covers the "unwritten" skills that shape a successful academic career but rarely show up in a syllabus. Topics range from professional etiquette and research workflow to job market preparation and life after the defense. The materials are organized by year so that students can engage with whatever is most relevant to where they are in the program.
 :::
 
----
-
 <div class="facilitator-card">
-<div>
-<div class="facil-heading">Facilitator</div>
-<p class="facil-name"><a href="https://www.ianmccarthyecon.com">Ian McCarthy</a></p>
-</div>
-<div>
-<p class="facil-detail">{{< fa university >}} R. Rollins, R418</p>
-</div>
-<div>
-<p class="facil-detail">{{< fa envelope >}} <a href="mailto:ian.mccarthy@emory.edu">ian.mccarthy@emory.edu</a></p>
+<p class="facil-name">{{< fa user >}} <a href="https://www.ianmccarthyecon.com">Ian McCarthy</a></p>
+<div class="facil-details">
+<span>{{< fa university >}} Department of Economics, Emory University</span>
+<span>{{< fa building >}} R. Rollins, R418</span>
+<span>{{< fa envelope >}} <a href="mailto:ian.mccarthy@emory.edu">ian.mccarthy@emory.edu</a></span>
 </div>
 </div>
 

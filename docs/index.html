@@ -135,6 +135,14 @@ ul.task-list li input[type="checkbox"] {
   }
 }
 
+/* Welcome text */
+.welcome-text {
+  font-size: 1.1rem;
+  line-height: 1.7;
+  color: #495057;
+  margin-bottom: 1.5rem;
+}
+
 /* Facilitator */
 .facilitator-card {
   border-radius: 8px;
@@ -142,48 +150,37 @@ ul.task-list li input[type="checkbox"] {
   margin-bottom: 2rem;
   background: #20235b;
   color: #fff;
-  display: flex;
-  align-items: center;
-  gap: 2.5rem;
-  flex-wrap: wrap;
 }
 
-.facilitator-card .facil-heading {
-  font-size: 1.1rem;
+.facil-name {
+  font-size: 1.4rem;
   font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.08em;
-  color: rgba(255,255,255,0.7);
   margin-bottom: 0.4rem;
 }
 
-.facilitator-card .facil-name {
-  font-size: 1.4rem;
-  font-weight: 700;
-  margin-bottom: 0;
-}
-
-.facilitator-card .facil-name a {
+.facil-name a {
   color: #f0be3d;
   text-decoration: none;
 }
 
-.facilitator-card .facil-name a:hover {
+.facil-name a:hover {
   color: #fff;
 }
 
-.facilitator-card .facil-detail {
+.facil-details {
+  display: flex;
+  gap: 2rem;
+  flex-wrap: wrap;
   color: rgba(255,255,255,0.85);
   font-size: 1rem;
-  margin-bottom: 0;
 }
 
-.facilitator-card .facil-detail a {
+.facil-details a {
   color: rgba(255,255,255,0.85);
   text-decoration: none;
 }
 
-.facilitator-card .facil-detail a:hover {
+.facil-details a:hover {
   color: #f0be3d;
 }
 
@@ -264,29 +261,15 @@ ul.task-list li input[type="checkbox"] {
 </style>
 <section id="professionalism-workshop" class="level1 content-block">
 <h1>Professionalism Workshop</h1>
-<div class="text-secondary fs-4">
-<p>Working through the “unwritten” aspects of preparing for and navigating the job market for economics PhD students</p>
-<p>Department of Economics, Emory University</p>
+<div class="welcome-text">
+<p>This workshop is designed for economics PhD students at Emory University. Each module covers the “unwritten” skills that shape a successful academic career but rarely show up in a syllabus. Topics range from professional etiquette and research workflow to job market preparation and life after the defense. The materials are organized by year so that students can engage with whatever is most relevant to where they are in the program.</p>
 </div>
-<hr>
 <div class="facilitator-card">
-<div>
-<div class="facil-heading">
-Facilitator
-</div>
 <p class="facil-name">
-<a href="https://www.ianmccarthyecon.com">Ian McCarthy</a>
+<i class="fa-solid fa-user" aria-label="user"></i> <a href="https://www.ianmccarthyecon.com">Ian McCarthy</a>
 </p>
-</div>
-<div>
-<p class="facil-detail">
-<i class="fa-solid fa-university" aria-label="university"></i> R. Rollins, R418
-</p>
-</div>
-<div>
-<p class="facil-detail">
-<i class="fa-solid fa-envelope" aria-label="envelope"></i> <a href="mailto:ian.mccarthy@emory.edu">ian.mccarthy@emory.edu</a>
-</p>
+<div class="facil-details">
+<p><span><i class="fa-solid fa-university" aria-label="university"></i> Department of Economics, Emory University</span> <span><i class="fa-solid fa-building" aria-label="building"></i> R. Rollins, R418</span> <span><i class="fa-solid fa-envelope" aria-label="envelope"></i> <a href="mailto:ian.mccarthy@emory.edu">ian.mccarthy@emory.edu</a></span></p>
 </div>
 </div>
 <section id="professional-etiquette" class="level3 module-card">
