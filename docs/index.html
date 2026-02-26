@@ -135,69 +135,131 @@ ul.task-list li input[type="checkbox"] {
   }
 }
 
+/* Facilitator */
+.facilitator-card {
+  border-radius: 8px;
+  padding: 1.5rem 2rem;
+  margin-bottom: 2rem;
+  background: #20235b;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  gap: 2.5rem;
+  flex-wrap: wrap;
+}
+
+.facilitator-card .facil-heading {
+  font-size: 1.1rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: rgba(255,255,255,0.7);
+  margin-bottom: 0.4rem;
+}
+
+.facilitator-card .facil-name {
+  font-size: 1.4rem;
+  font-weight: 700;
+  margin-bottom: 0;
+}
+
+.facilitator-card .facil-name a {
+  color: #f0be3d;
+  text-decoration: none;
+}
+
+.facilitator-card .facil-name a:hover {
+  color: #fff;
+}
+
+.facilitator-card .facil-detail {
+  color: rgba(255,255,255,0.85);
+  font-size: 1rem;
+  margin-bottom: 0;
+}
+
+.facilitator-card .facil-detail a {
+  color: rgba(255,255,255,0.85);
+  text-decoration: none;
+}
+
+.facilitator-card .facil-detail a:hover {
+  color: #f0be3d;
+}
+
+/* Module cards */
 .module-card {
   border: 1px solid #e9ecef;
-  border-radius: 8px;
-  padding: 1.5rem;
+  border-left: 4px solid #da7901;
+  border-radius: 4px;
+  padding: 1.5rem 1.75rem;
   margin-bottom: 1.25rem;
   background: #fff;
-  box-shadow: 0 1px 3px rgba(0,0,0,0.08);
-  transition: box-shadow 0.2s ease;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+  transition: box-shadow 0.2s ease, border-left-color 0.2s ease;
 }
 
 .module-card:hover {
-  box-shadow: 0 4px 12px rgba(0,0,0,0.12);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  border-left-color: #20235b;
 }
 
 .module-card h3 {
   margin-top: 0;
-  margin-bottom: 0.75rem;
-  color: #20235b;
-  font-size: 1.6rem;
-}
-
-.facilitator-card {
-  border: 1px solid #e9ecef;
-  border-radius: 8px;
-  padding: 1.25rem 1.5rem;
-  margin-bottom: 1.5rem;
-  background: #f8f9fa;
-}
-
-.facilitator-card h3 {
-  margin-top: 0;
-  margin-bottom: 0.75rem;
-  color: #20235b;
-  font-size: 1.6rem;
-}
-
-.facilitator-card p {
   margin-bottom: 0.25rem;
-  font-size: 1.05rem;
+  color: #20235b;
+  font-size: 1.5rem;
 }
 
 .module-card .subtitle {
   color: #868e96;
   font-size: 0.95rem;
-  margin-bottom: 0.75rem;
+  margin-bottom: 1rem;
   font-style: italic;
 }
 
+/* Styled link list */
 .module-card ul {
+  list-style: none;
   margin-bottom: 0;
-  padding-left: 1.25rem;
+  padding-left: 0;
 }
 
 .module-card li {
-  margin-bottom: 0.3rem;
+  margin-bottom: 0;
 }
 
-.module-card .subgroup {
+.module-card li a {
+  display: block;
+  padding: 0.45rem 0.75rem;
+  border-radius: 4px;
+  text-decoration: none;
+  color: #343a40;
+  transition: background 0.15s ease, color 0.15s ease;
+  font-size: 1.05rem;
+}
+
+.module-card li a::before {
+  content: "\2192\00a0";
+  color: #da7901;
   font-weight: 600;
-  font-size: 0.9rem;
-  color: #495057;
-  margin-top: 0.5rem;
-  margin-bottom: 0.25rem;
+}
+
+.module-card li a:hover {
+  background: #f8f9fa;
+  color: #da7901;
+}
+
+/* Subgroups */
+.module-card .subgroup {
+  font-size: 0.8rem;
+  font-weight: 700;
+  color: #868e96;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  margin-top: 0.75rem;
+  margin-bottom: 0.1rem;
+  padding-left: 0.75rem;
 }
 </style>
 <section id="professionalism-workshop" class="level1 content-block">
@@ -207,12 +269,26 @@ ul.task-list li input[type="checkbox"] {
 <p>Department of Economics, Emory University</p>
 </div>
 <hr>
-<section id="facilitator" class="level3 facilitator-card">
-<h3 data-anchor-id="facilitator">Facilitator</h3>
-<p><i class="fa-solid fa-user" aria-label="user"></i> <a href="https://www.ianmccarthyecon.com">Ian McCarthy</a></p>
-<p><i class="fa-solid fa-university" aria-label="university"></i> R. Rollins, R418</p>
-<p><i class="fa-solid fa-envelope" aria-label="envelope"></i> <a href="mailto:ian.mccarthy@emory.edu">ian.mccarthy@emory.edu</a></p>
-</section>
+<div class="facilitator-card">
+<div>
+<div class="facil-heading">
+Facilitator
+</div>
+<p class="facil-name">
+<a href="https://www.ianmccarthyecon.com">Ian McCarthy</a>
+</p>
+</div>
+<div>
+<p class="facil-detail">
+<i class="fa-solid fa-university" aria-label="university"></i> R. Rollins, R418
+</p>
+</div>
+<div>
+<p class="facil-detail">
+<i class="fa-solid fa-envelope" aria-label="envelope"></i> <a href="mailto:ian.mccarthy@emory.edu">ian.mccarthy@emory.edu</a>
+</p>
+</div>
+</div>
 <section id="professional-etiquette" class="level3 module-card">
 <h3 data-anchor-id="professional-etiquette">Professional Etiquette</h3>
 <div class="subtitle">
