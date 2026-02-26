@@ -9,6 +9,7 @@ project:
     - "!LICENSE.md"
   resources:
     - "files/"
+    - "CNAME"
 
 execute:
   freeze: auto

@@ -6,7 +6,7 @@ sidebar: false
 toc: false
 ---
 
-```{css, echo=FALSE}
+<style>
 .content-block {
   padding-top: 20px;
   padding-bottom: 10px;
@@ -27,8 +27,7 @@ toc: false
     margin: 0 auto;
   }
 }
-
-```
+</style>
 
 
 ::: {.content-block}
