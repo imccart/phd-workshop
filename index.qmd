@@ -46,7 +46,27 @@ toc: false
   margin-top: 0;
   margin-bottom: 0.75rem;
   color: #20235b;
+  font-size: 1.6rem;
+}
+
+.facilitator-card {
+  border: 1px solid #e9ecef;
+  border-radius: 8px;
+  padding: 1.25rem 1.5rem;
+  margin-bottom: 1.5rem;
+  background: #f8f9fa;
+}
+
+.facilitator-card h3 {
+  margin-top: 0;
+  margin-bottom: 0.75rem;
+  color: #20235b;
   font-size: 1.3rem;
+}
+
+.facilitator-card p {
+  margin-bottom: 0.25rem;
+  font-size: 1.05rem;
 }
 
 .module-card .subtitle {
@@ -89,9 +109,15 @@ Department of Economics, Emory University
 
 ---
 
-{{< fa user >}} [Ian McCarthy](https://www.ianmccarthyecon.com) &ensp; {{< fa university >}} R. Rollins, R418 &ensp; {{< fa envelope >}} [ian.mccarthy@emory.edu](mailto:ian.mccarthy@emory.edu)
+:::{.facilitator-card}
+### Facilitator
 
----
+{{< fa user >}} [Ian McCarthy](https://www.ianmccarthyecon.com)
+
+{{< fa university >}} R. Rollins, R418
+
+{{< fa envelope >}} [ian.mccarthy@emory.edu](mailto:ian.mccarthy@emory.edu)
+:::
 
 :::{.module-card}
 ### Professional Etiquette
