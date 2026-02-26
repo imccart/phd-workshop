@@ -9,7 +9,7 @@ toc: false
 <style>
 .content-block {
   padding-top: 20px;
-  padding-bottom: 10px;
+  padding-bottom: 40px;
   margin-left: 30px;
   margin-right: 30px;
 }
@@ -27,6 +27,51 @@ toc: false
     margin: 0 auto;
   }
 }
+
+.module-card {
+  border: 1px solid #e9ecef;
+  border-radius: 8px;
+  padding: 1.5rem;
+  margin-bottom: 1.25rem;
+  background: #fff;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+  transition: box-shadow 0.2s ease;
+}
+
+.module-card:hover {
+  box-shadow: 0 4px 12px rgba(0,0,0,0.12);
+}
+
+.module-card h3 {
+  margin-top: 0;
+  margin-bottom: 0.75rem;
+  color: #20235b;
+  font-size: 1.3rem;
+}
+
+.module-card .subtitle {
+  color: #868e96;
+  font-size: 0.95rem;
+  margin-bottom: 0.75rem;
+  font-style: italic;
+}
+
+.module-card ul {
+  margin-bottom: 0;
+  padding-left: 1.25rem;
+}
+
+.module-card li {
+  margin-bottom: 0.3rem;
+}
+
+.module-card .subgroup {
+  font-weight: 600;
+  font-size: 0.9rem;
+  color: #495057;
+  margin-top: 0.5rem;
+  margin-bottom: 0.25rem;
+}
 </style>
 
 
@@ -38,83 +83,85 @@ toc: false
 
 Working through the "unwritten" aspects of preparing for and navigating the job market for economics PhD students
 
-
-Department of Economics<br>
-Emory University<br>
-**Follow us!** [{{< fa brands linkedin >}}](https://www.linkedin.com/company/emory-university-department-of-economics), [{{< fa brands facebook >}}](https://www.facebook.com/EmoryEcon/), and [{{< fa brands instagram >}}](https://www.instagram.com/econemory/)
+Department of Economics, Emory University
 
 :::
 
 ---
 
-
-::: {.grid}
-
-::: {.g-col-6}
-
-
-## Facilitator
-
-{{< fa user >}} [Ian McCarthy](https://www.ianmccarthyecon.com)<br>
-{{< fa university >}} R. Rollins, R418<br>
-{{< fa envelope >}} [ian.mccarthy@emory.edu](mailto:ian.mccarthy@emory.edu)<br>
-
-:::
-
-::: {.g-col-6}
-
-## Workshop Modules
-
-All slide decks are hosted on the [content site](https://imccart.github.io/phd-workshop-content/).
-
-:::
-
-:::
+{{< fa user >}} [Ian McCarthy](https://www.ianmccarthyecon.com) &ensp; {{< fa university >}} R. Rollins, R418 &ensp; {{< fa envelope >}} [ian.mccarthy@emory.edu](mailto:ian.mccarthy@emory.edu)
 
 ---
 
-## Professional Etiquette
-
+:::{.module-card}
+### Professional Etiquette
+:::{.subtitle}
+Navigating day-to-day interactions in academia
+:::
 - [Staying Organized](https://imccart.github.io/phd-workshop-content/etiquette/organization.html)
 - [Emails](https://imccart.github.io/phd-workshop-content/etiquette/emails.html)
 - [Meetings](https://imccart.github.io/phd-workshop-content/etiquette/meetings.html)
 - [Culture](https://imccart.github.io/phd-workshop-content/etiquette/culture.html)
+:::
 
-## 1st Year: Just starting the program
-
+:::{.module-card}
+### 1st Year: Just Starting the Program
+:::{.subtitle}
+Who stays, who leaves, and how to survive
+:::
 - [Who is here and who might leave?](https://imccart.github.io/phd-workshop-content/year1/why-leave.html)
 - [Tips for sticking around](https://imccart.github.io/phd-workshop-content/year1/how-to-finish.html)
+:::
 
-## 2nd Year: From student to researcher
-
+:::{.module-card}
+### 2nd Year: From Student to Researcher
+:::{.subtitle}
+Finding and developing research ideas
+:::
 - [Tips for generating research ideas](https://imccart.github.io/phd-workshop-content/year2/ideas.html)
 - [From idea to paper](https://imccart.github.io/phd-workshop-content/year2/moving-forward.html)
+:::
 
-## 3rd Year: Best practices in research
+:::{.module-card}
+### 3rd Year: Best Practices in Research
+:::{.subtitle}
+Building a sustainable workflow and learning to write
+:::
 
-**Basic Workflow**
-
+:::{.subgroup}
+Basic Workflow
+:::
 - [Get Organized](https://imccart.github.io/phd-workshop-content/year3/organize.html)
 - [Keep Track](https://imccart.github.io/phd-workshop-content/year3/tracking.html)
 - [Backups](https://imccart.github.io/phd-workshop-content/year3/backup.html)
 
-**Learning "How to Write"**
-
+:::{.subgroup}
+Learning "How to Write"
+:::
 - [Get Started](https://imccart.github.io/phd-workshop-content/year3/start-writing.html)
 - [Writing Better](https://imccart.github.io/phd-workshop-content/year3/write-better.html)
+:::
 
-## 4th Year: Preparing for the market
-
+:::{.module-card}
+### 4th Year: Preparing for the Market
+:::{.subtitle}
+Materials, presentations, publishing, and your online presence
+:::
 - [Understanding the Job Market](https://imccart.github.io/phd-workshop-content/year4/the-market.html)
 - [Preparing your Materials](https://imccart.github.io/phd-workshop-content/year4/market-materials.html)
 - [Conferences and Presentations](https://imccart.github.io/phd-workshop-content/year4/present.html)
 - [Publishing](https://imccart.github.io/phd-workshop-content/year4/publish.html)
 - [Summarizing your Work](https://imccart.github.io/phd-workshop-content/year4/summarize.html)
 - [Your Website](https://imccart.github.io/phd-workshop-content/year4/website.html)
+:::
 
-## 5th Year: Finishing up
-
+:::{.module-card}
+### 5th Year: Finishing Up
+:::{.subtitle}
+Defense preparation and post-PhD transitions
+:::
 - [Preparing for the Defense](https://imccart.github.io/phd-workshop-content/year5/defense.html)
 - [Post-defense Transitions](https://imccart.github.io/phd-workshop-content/year5/wrap-up.html)
+:::
 
 :::
