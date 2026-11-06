@@ -205,19 +205,8 @@ Finding and developing research ideas
 :::{.subtitle}
 Building a sustainable workflow and learning to write
 :::
-
-:::{.subgroup}
-Basic Workflow
-:::
-- [Get Organized](https://imccart.github.io/phd-workshop-content/year3/organize.html)
-- [Keep Track](https://imccart.github.io/phd-workshop-content/year3/tracking.html)
-- [Backups](https://imccart.github.io/phd-workshop-content/year3/backup.html)
-
-:::{.subgroup}
-Learning "How to Write"
-:::
-- [Get Started](https://imccart.github.io/phd-workshop-content/year3/start-writing.html)
-- [Writing Better](https://imccart.github.io/phd-workshop-content/year3/write-better.html)
+- [Workflow: organize, keep track, back up](https://imccart.github.io/phd-workshop-content/year3/workflow.html)
+- [Writing: start writing, write better](https://imccart.github.io/phd-workshop-content/year3/writing.html)
 :::
 
 :::{.module-card}
